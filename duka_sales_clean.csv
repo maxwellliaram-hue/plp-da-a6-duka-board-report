@@ -1,0 +1,1001 @@
+order_id,order_date,date_key,month,weekday,branch,product,channel,units,unit_price,revenue,price_band
+DK0001,2026-01-01,20260101,2026-01,Thursday,Nakuru,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0002,2026-01-01,20260101,2026-01,Thursday,Nakuru,Bluetooth Speaker,Online,1,9500,9500,Other
+DK0003,2026-01-01,20260101,2026-01,Thursday,Nairobi,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0004,2026-01-01,20260101,2026-01,Thursday,Nairobi,Tablet,In-store,3,18000,54000,Other
+DK0005,2026-01-02,20260102,2026-01,Friday,Kisumu,Microwave,Online,1,15000,15000,Other
+DK0006,2026-01-02,20260102,2026-01,Friday,Kisumu,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0007,2026-01-02,20260102,2026-01,Friday,Nakuru,Wireless Earbuds,Online,2,6500,13000,Other
+DK0008,2026-01-02,20260102,2026-01,Friday,Mombasa,Phone Charger,Online,9,1200,10800,Other
+DK0009,2026-01-02,20260102,2026-01,Friday,Mombasa,Tablet,In-store,3,18000,54000,Other
+DK0010,2026-01-02,20260102,2026-01,Friday,Nairobi,Laptop 15in,Online,3,62000,186000,Big-ticket
+DK0011,2026-01-02,20260102,2026-01,Friday,Nairobi,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0012,2026-01-02,20260102,2026-01,Friday,Eldoret,Tablet,Online,1,18000,18000,Other
+DK0013,2026-01-03,20260103,2026-01,Saturday,Nairobi,Tablet,In-store,1,18000,18000,Other
+DK0014,2026-01-03,20260103,2026-01,Saturday,Mombasa,Phone Charger,In-store,2,1200,2400,Other
+DK0015,2026-01-03,20260103,2026-01,Saturday,Nakuru,Tablet,Online,1,18000,18000,Other
+DK0016,2026-01-03,20260103,2026-01,Saturday,Mombasa,Wireless Earbuds,In-store,2,6500,13000,Other
+DK0017,2026-01-03,20260103,2026-01,Saturday,Nairobi,Phone Charger,In-store,6,1200,7200,Other
+DK0018,2026-01-04,20260104,2026-01,Sunday,Nairobi,Laptop 15in,In-store,2,62000,124000,Big-ticket
+DK0019,2026-01-04,20260104,2026-01,Sunday,Mombasa,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0020,2026-01-05,20260105,2026-01,Monday,Kisumu,Phone Charger,In-store,1,1200,1200,Other
+DK0021,2026-01-05,20260105,2026-01,Monday,Eldoret,Phone Charger,Online,2,1200,2400,Other
+DK0022,2026-01-05,20260105,2026-01,Monday,Nairobi,Bluetooth Speaker,Online,1,9500,9500,Other
+DK0023,2026-01-05,20260105,2026-01,Monday,Nairobi,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0024,2026-01-05,20260105,2026-01,Monday,Nakuru,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0025,2026-01-05,20260105,2026-01,Monday,Mombasa,Wireless Earbuds,In-store,2,6500,13000,Other
+DK0026,2026-01-05,20260105,2026-01,Monday,Eldoret,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0027,2026-01-05,20260105,2026-01,Monday,Eldoret,Microwave,In-store,1,15000,15000,Other
+DK0028,2026-01-05,20260105,2026-01,Monday,Mombasa,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0029,2026-01-06,20260106,2026-01,Tuesday,Nakuru,Phone Charger,In-store,3,1200,3600,Other
+DK0030,2026-01-06,20260106,2026-01,Tuesday,Kisumu,Smartphone,In-store,3,22000,66000,Big-ticket
+DK0031,2026-01-06,20260106,2026-01,Tuesday,Kisumu,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0032,2026-01-06,20260106,2026-01,Tuesday,Kisumu,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0033,2026-01-06,20260106,2026-01,Tuesday,Nairobi,Microwave,In-store,1,15000,15000,Other
+DK0034,2026-01-06,20260106,2026-01,Tuesday,Nakuru,Wireless Earbuds,Online,4,6500,26000,Other
+DK0035,2026-01-06,20260106,2026-01,Tuesday,Kisumu,Wireless Earbuds,In-store,2,6500,13000,Other
+DK0036,2026-01-07,20260107,2026-01,Wednesday,Eldoret,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0037,2026-01-07,20260107,2026-01,Wednesday,Kisumu,Phone Charger,In-store,7,1200,8400,Other
+DK0038,2026-01-07,20260107,2026-01,Wednesday,Eldoret,Smartphone,Online,1,22000,22000,Big-ticket
+DK0039,2026-01-07,20260107,2026-01,Wednesday,Eldoret,Phone Charger,In-store,2,1200,2400,Other
+DK0040,2026-01-07,20260107,2026-01,Wednesday,Nairobi,Phone Charger,In-store,4,1200,4800,Other
+DK0041,2026-01-07,20260107,2026-01,Wednesday,Nairobi,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0042,2026-01-07,20260107,2026-01,Wednesday,Mombasa,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0043,2026-01-08,20260108,2026-01,Thursday,Nakuru,Phone Charger,In-store,4,1200,4800,Other
+DK0044,2026-01-08,20260108,2026-01,Thursday,Mombasa,Wireless Earbuds,Online,2,6500,13000,Other
+DK0045,2026-01-08,20260108,2026-01,Thursday,Mombasa,Laptop 15in,In-store,2,62000,124000,Big-ticket
+DK0046,2026-01-08,20260108,2026-01,Thursday,Nairobi,Phone Charger,In-store,4,1200,4800,Other
+DK0047,2026-01-08,20260108,2026-01,Thursday,Mombasa,Wireless Earbuds,In-store,3,6500,19500,Other
+DK0048,2026-01-09,20260109,2026-01,Friday,Mombasa,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0049,2026-01-09,20260109,2026-01,Friday,Kisumu,Smartphone,Online,1,22000,22000,Big-ticket
+DK0050,2026-01-09,20260109,2026-01,Friday,Mombasa,Smartphone,Online,1,22000,22000,Big-ticket
+DK0051,2026-01-09,20260109,2026-01,Friday,Nairobi,Tablet,In-store,3,18000,54000,Other
+DK0052,2026-01-10,20260110,2026-01,Saturday,Kisumu,Phone Charger,In-store,7,1200,8400,Other
+DK0053,2026-01-10,20260110,2026-01,Saturday,Kisumu,Smartphone,In-store,3,22000,66000,Big-ticket
+DK0054,2026-01-10,20260110,2026-01,Saturday,Nairobi,Tablet,Online,4,18000,72000,Other
+DK0055,2026-01-10,20260110,2026-01,Saturday,Kisumu,Smartphone,Online,1,22000,22000,Big-ticket
+DK0056,2026-01-10,20260110,2026-01,Saturday,Mombasa,Phone Charger,Online,4,1200,4800,Other
+DK0057,2026-01-10,20260110,2026-01,Saturday,Mombasa,Tablet,In-store,1,18000,18000,Other
+DK0058,2026-01-11,20260111,2026-01,Sunday,Kisumu,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0059,2026-01-11,20260111,2026-01,Sunday,Kisumu,Bluetooth Speaker,Online,4,9500,38000,Other
+DK0060,2026-01-11,20260111,2026-01,Sunday,Kisumu,Tablet,Online,2,18000,36000,Other
+DK0061,2026-01-11,20260111,2026-01,Sunday,Nakuru,Wireless Earbuds,Online,1,6500,6500,Other
+DK0062,2026-01-11,20260111,2026-01,Sunday,Nakuru,Phone Charger,In-store,9,1200,10800,Other
+DK0063,2026-01-11,20260111,2026-01,Sunday,Eldoret,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0064,2026-01-12,20260112,2026-01,Monday,Nairobi,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0065,2026-01-12,20260112,2026-01,Monday,Mombasa,Phone Charger,In-store,2,1200,2400,Other
+DK0066,2026-01-12,20260112,2026-01,Monday,Mombasa,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0067,2026-01-12,20260112,2026-01,Monday,Kisumu,Smartphone,Online,1,22000,22000,Big-ticket
+DK0068,2026-01-12,20260112,2026-01,Monday,Kisumu,Wireless Earbuds,Online,5,6500,32500,Other
+DK0069,2026-01-13,20260113,2026-01,Tuesday,Nakuru,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0070,2026-01-13,20260113,2026-01,Tuesday,Eldoret,Tablet,In-store,2,18000,36000,Other
+DK0071,2026-01-14,20260114,2026-01,Wednesday,Kisumu,Wireless Earbuds,Online,1,6500,6500,Other
+DK0072,2026-01-14,20260114,2026-01,Wednesday,Nairobi,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0073,2026-01-14,20260114,2026-01,Wednesday,Kisumu,Tablet,Online,2,18000,36000,Other
+DK0074,2026-01-14,20260114,2026-01,Wednesday,Eldoret,Laptop 15in,In-store,2,62000,124000,Big-ticket
+DK0075,2026-01-14,20260114,2026-01,Wednesday,Mombasa,Smartphone,Online,1,22000,22000,Big-ticket
+DK0076,2026-01-14,20260114,2026-01,Wednesday,Nakuru,Phone Charger,Online,6,1200,7200,Other
+DK0077,2026-01-14,20260114,2026-01,Wednesday,Nakuru,Microwave,In-store,1,15000,15000,Other
+DK0078,2026-01-15,20260115,2026-01,Thursday,Nairobi,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0079,2026-01-15,20260115,2026-01,Thursday,Mombasa,Wireless Earbuds,Online,2,6500,13000,Other
+DK0080,2026-01-15,20260115,2026-01,Thursday,Kisumu,Smart TV 55in,Online,1,48000,48000,Big-ticket
+DK0081,2026-01-15,20260115,2026-01,Thursday,Mombasa,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0082,2026-01-15,20260115,2026-01,Thursday,Mombasa,Phone Charger,In-store,3,1200,3600,Other
+DK0083,2026-01-15,20260115,2026-01,Thursday,Mombasa,Phone Charger,In-store,8,1200,9600,Other
+DK0084,2026-01-15,20260115,2026-01,Thursday,Mombasa,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0085,2026-01-16,20260116,2026-01,Friday,Eldoret,Phone Charger,In-store,6,1200,7200,Other
+DK0086,2026-01-16,20260116,2026-01,Friday,Nairobi,Microwave,In-store,1,15000,15000,Other
+DK0087,2026-01-16,20260116,2026-01,Friday,Nakuru,Phone Charger,Online,2,1200,2400,Other
+DK0088,2026-01-16,20260116,2026-01,Friday,Nairobi,Wireless Earbuds,In-store,4,6500,26000,Other
+DK0089,2026-01-16,20260116,2026-01,Friday,Nairobi,Laptop 15in,In-store,3,62000,186000,Big-ticket
+DK0090,2026-01-17,20260117,2026-01,Saturday,Nakuru,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0091,2026-01-17,20260117,2026-01,Saturday,Nakuru,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0092,2026-01-17,20260117,2026-01,Saturday,Nairobi,Phone Charger,In-store,9,1200,10800,Other
+DK0093,2026-01-17,20260117,2026-01,Saturday,Nairobi,Smartphone,Online,1,22000,22000,Big-ticket
+DK0094,2026-01-17,20260117,2026-01,Saturday,Mombasa,Phone Charger,In-store,1,1200,1200,Other
+DK0095,2026-01-17,20260117,2026-01,Saturday,Nairobi,Smartphone,Online,2,22000,44000,Big-ticket
+DK0096,2026-01-17,20260117,2026-01,Saturday,Mombasa,Wireless Earbuds,In-store,2,6500,13000,Other
+DK0097,2026-01-17,20260117,2026-01,Saturday,Eldoret,Wireless Earbuds,Online,1,6500,6500,Other
+DK0098,2026-01-17,20260117,2026-01,Saturday,Eldoret,Smartphone,Online,2,22000,44000,Big-ticket
+DK0099,2026-01-18,20260118,2026-01,Sunday,Nairobi,Smartphone,Online,2,22000,44000,Big-ticket
+DK0100,2026-01-18,20260118,2026-01,Sunday,Mombasa,Smart TV 55in,In-store,2,48000,96000,Big-ticket
+DK0101,2026-01-18,20260118,2026-01,Sunday,Nairobi,Smart TV 55in,Online,1,48000,48000,Big-ticket
+DK0102,2026-01-18,20260118,2026-01,Sunday,Kisumu,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0103,2026-01-19,20260119,2026-01,Monday,Nakuru,Bluetooth Speaker,Online,2,9500,19000,Other
+DK0104,2026-01-19,20260119,2026-01,Monday,Nakuru,Wireless Earbuds,In-store,2,6500,13000,Other
+DK0105,2026-01-19,20260119,2026-01,Monday,Mombasa,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0106,2026-01-19,20260119,2026-01,Monday,Mombasa,Smart TV 55in,In-store,2,48000,96000,Big-ticket
+DK0107,2026-01-20,20260120,2026-01,Tuesday,Mombasa,Phone Charger,In-store,2,1200,2400,Other
+DK0108,2026-01-20,20260120,2026-01,Tuesday,Eldoret,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0109,2026-01-20,20260120,2026-01,Tuesday,Mombasa,Bluetooth Speaker,Online,6,9500,57000,Other
+DK0110,2026-01-20,20260120,2026-01,Tuesday,Mombasa,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0111,2026-01-20,20260120,2026-01,Tuesday,Nairobi,Phone Charger,In-store,5,1200,6000,Other
+DK0112,2026-01-20,20260120,2026-01,Tuesday,Mombasa,Tablet,Online,2,18000,36000,Other
+DK0113,2026-01-20,20260120,2026-01,Tuesday,Nairobi,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0114,2026-01-20,20260120,2026-01,Tuesday,Eldoret,Phone Charger,In-store,7,1200,8400,Other
+DK0115,2026-01-21,20260121,2026-01,Wednesday,Nairobi,Phone Charger,Online,5,1200,6000,Other
+DK0116,2026-01-21,20260121,2026-01,Wednesday,Nairobi,Microwave,In-store,1,15000,15000,Other
+DK0117,2026-01-21,20260121,2026-01,Wednesday,Nakuru,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0118,2026-01-22,20260122,2026-01,Thursday,Nairobi,Phone Charger,In-store,2,1200,2400,Other
+DK0119,2026-01-22,20260122,2026-01,Thursday,Nairobi,Microwave,In-store,2,15000,30000,Other
+DK0120,2026-01-22,20260122,2026-01,Thursday,Nairobi,Phone Charger,Online,3,1200,3600,Other
+DK0121,2026-01-22,20260122,2026-01,Thursday,Nakuru,Smartphone,Online,1,22000,22000,Big-ticket
+DK0122,2026-01-22,20260122,2026-01,Thursday,Nakuru,Bluetooth Speaker,Online,1,9500,9500,Other
+DK0123,2026-01-22,20260122,2026-01,Thursday,Nairobi,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0124,2026-01-22,20260122,2026-01,Thursday,Nairobi,Tablet,Online,1,18000,18000,Other
+DK0125,2026-01-23,20260123,2026-01,Friday,Nairobi,Phone Charger,In-store,5,1200,6000,Other
+DK0126,2026-01-23,20260123,2026-01,Friday,Nairobi,Smartphone,Online,1,22000,22000,Big-ticket
+DK0127,2026-01-23,20260123,2026-01,Friday,Eldoret,Tablet,In-store,2,18000,36000,Other
+DK0128,2026-01-24,20260124,2026-01,Saturday,Nakuru,Wireless Earbuds,Online,1,6500,6500,Other
+DK0129,2026-01-24,20260124,2026-01,Saturday,Nakuru,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0130,2026-01-24,20260124,2026-01,Saturday,Nakuru,Smartphone,Online,1,22000,22000,Big-ticket
+DK0131,2026-01-24,20260124,2026-01,Saturday,Nakuru,Phone Charger,Online,5,1200,6000,Other
+DK0132,2026-01-24,20260124,2026-01,Saturday,Nairobi,Tablet,In-store,1,18000,18000,Other
+DK0133,2026-01-24,20260124,2026-01,Saturday,Kisumu,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0134,2026-01-24,20260124,2026-01,Saturday,Eldoret,Bluetooth Speaker,Online,2,9500,19000,Other
+DK0135,2026-01-24,20260124,2026-01,Saturday,Mombasa,Microwave,In-store,1,15000,15000,Other
+DK0136,2026-01-25,20260125,2026-01,Sunday,Eldoret,Laptop 15in,In-store,2,62000,124000,Big-ticket
+DK0137,2026-01-25,20260125,2026-01,Sunday,Mombasa,Bluetooth Speaker,Online,2,9500,19000,Other
+DK0138,2026-01-25,20260125,2026-01,Sunday,Mombasa,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0139,2026-01-25,20260125,2026-01,Sunday,Nairobi,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0140,2026-01-25,20260125,2026-01,Sunday,Nakuru,Phone Charger,Online,3,1200,3600,Other
+DK0141,2026-01-26,20260126,2026-01,Monday,Mombasa,Bluetooth Speaker,Online,1,9500,9500,Other
+DK0142,2026-01-26,20260126,2026-01,Monday,Eldoret,Wireless Earbuds,In-store,3,6500,19500,Other
+DK0143,2026-01-26,20260126,2026-01,Monday,Kisumu,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0144,2026-01-26,20260126,2026-01,Monday,Nairobi,Smartphone,Online,1,22000,22000,Big-ticket
+DK0145,2026-01-27,20260127,2026-01,Tuesday,Kisumu,Tablet,In-store,1,18000,18000,Other
+DK0146,2026-01-27,20260127,2026-01,Tuesday,Kisumu,Bluetooth Speaker,In-store,3,9500,28500,Other
+DK0147,2026-01-27,20260127,2026-01,Tuesday,Nairobi,Phone Charger,In-store,2,1200,2400,Other
+DK0148,2026-01-27,20260127,2026-01,Tuesday,Mombasa,Bluetooth Speaker,Online,1,9500,9500,Other
+DK0149,2026-01-27,20260127,2026-01,Tuesday,Nairobi,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0150,2026-01-27,20260127,2026-01,Tuesday,Nakuru,Tablet,In-store,1,18000,18000,Other
+DK0151,2026-01-27,20260127,2026-01,Tuesday,Mombasa,Bluetooth Speaker,In-store,5,9500,47500,Other
+DK0152,2026-01-27,20260127,2026-01,Tuesday,Nairobi,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0153,2026-01-27,20260127,2026-01,Tuesday,Nairobi,Wireless Earbuds,In-store,2,6500,13000,Other
+DK0154,2026-01-28,20260128,2026-01,Wednesday,Nakuru,Smartphone,In-store,3,22000,66000,Big-ticket
+DK0155,2026-01-28,20260128,2026-01,Wednesday,Mombasa,Microwave,In-store,1,15000,15000,Other
+DK0156,2026-01-28,20260128,2026-01,Wednesday,Mombasa,Bluetooth Speaker,Online,4,9500,38000,Other
+DK0157,2026-01-28,20260128,2026-01,Wednesday,Kisumu,Phone Charger,In-store,1,1200,1200,Other
+DK0158,2026-01-29,20260129,2026-01,Thursday,Nairobi,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0159,2026-01-29,20260129,2026-01,Thursday,Mombasa,Laptop 15in,Online,1,62000,62000,Big-ticket
+DK0160,2026-01-29,20260129,2026-01,Thursday,Mombasa,Smartphone,In-store,3,22000,66000,Big-ticket
+DK0161,2026-01-29,20260129,2026-01,Thursday,Nakuru,Wireless Earbuds,In-store,2,6500,13000,Other
+DK0162,2026-01-30,20260130,2026-01,Friday,Kisumu,Smart TV 55in,Online,1,48000,48000,Big-ticket
+DK0163,2026-01-30,20260130,2026-01,Friday,Nakuru,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0164,2026-01-30,20260130,2026-01,Friday,Mombasa,Phone Charger,In-store,5,1200,6000,Other
+DK0165,2026-01-30,20260130,2026-01,Friday,Kisumu,Phone Charger,In-store,3,1200,3600,Other
+DK0166,2026-01-30,20260130,2026-01,Friday,Kisumu,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0167,2026-01-30,20260130,2026-01,Friday,Mombasa,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0168,2026-01-30,20260130,2026-01,Friday,Nairobi,Wireless Earbuds,In-store,2,6500,13000,Other
+DK0169,2026-01-31,20260131,2026-01,Saturday,Nairobi,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0170,2026-01-31,20260131,2026-01,Saturday,Nairobi,Phone Charger,Online,2,1200,2400,Other
+DK0171,2026-01-31,20260131,2026-01,Saturday,Nakuru,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0172,2026-01-31,20260131,2026-01,Saturday,Kisumu,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0173,2026-02-01,20260201,2026-02,Sunday,Eldoret,Phone Charger,In-store,5,1200,6000,Other
+DK0174,2026-02-01,20260201,2026-02,Sunday,Nakuru,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0175,2026-02-01,20260201,2026-02,Sunday,Nairobi,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0176,2026-02-01,20260201,2026-02,Sunday,Nairobi,Wireless Earbuds,In-store,4,6500,26000,Other
+DK0177,2026-02-01,20260201,2026-02,Sunday,Nakuru,Phone Charger,In-store,6,1200,7200,Other
+DK0178,2026-02-02,20260202,2026-02,Monday,Nairobi,Bluetooth Speaker,In-store,4,9500,38000,Other
+DK0179,2026-02-02,20260202,2026-02,Monday,Nairobi,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0180,2026-02-02,20260202,2026-02,Monday,Eldoret,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0181,2026-02-02,20260202,2026-02,Monday,Mombasa,Bluetooth Speaker,Online,2,9500,19000,Other
+DK0182,2026-02-02,20260202,2026-02,Monday,Nairobi,Microwave,In-store,1,15000,15000,Other
+DK0183,2026-02-02,20260202,2026-02,Monday,Nakuru,Phone Charger,Online,1,1200,1200,Other
+DK0184,2026-02-03,20260203,2026-02,Tuesday,Nakuru,Phone Charger,In-store,7,1200,8400,Other
+DK0185,2026-02-03,20260203,2026-02,Tuesday,Eldoret,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0186,2026-02-03,20260203,2026-02,Tuesday,Nakuru,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0187,2026-02-03,20260203,2026-02,Tuesday,Nairobi,Smartphone,Online,2,22000,44000,Big-ticket
+DK0188,2026-02-04,20260204,2026-02,Wednesday,Nairobi,Wireless Earbuds,Online,1,6500,6500,Other
+DK0189,2026-02-04,20260204,2026-02,Wednesday,Eldoret,Smartphone,Online,5,22000,110000,Big-ticket
+DK0190,2026-02-04,20260204,2026-02,Wednesday,Nairobi,Wireless Earbuds,In-store,2,6500,13000,Other
+DK0191,2026-02-04,20260204,2026-02,Wednesday,Nairobi,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0192,2026-02-04,20260204,2026-02,Wednesday,Kisumu,Smartphone,Online,2,22000,44000,Big-ticket
+DK0193,2026-02-04,20260204,2026-02,Wednesday,Eldoret,Phone Charger,In-store,10,1200,12000,Other
+DK0194,2026-02-05,20260205,2026-02,Thursday,Nakuru,Wireless Earbuds,In-store,2,6500,13000,Other
+DK0195,2026-02-05,20260205,2026-02,Thursday,Kisumu,Microwave,In-store,2,15000,30000,Other
+DK0196,2026-02-05,20260205,2026-02,Thursday,Kisumu,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0197,2026-02-05,20260205,2026-02,Thursday,Nakuru,Phone Charger,Online,3,1200,3600,Other
+DK0198,2026-02-06,20260206,2026-02,Friday,Nairobi,Tablet,In-store,1,18000,18000,Other
+DK0199,2026-02-06,20260206,2026-02,Friday,Mombasa,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0200,2026-02-06,20260206,2026-02,Friday,Nakuru,Smartphone,Online,1,22000,22000,Big-ticket
+DK0201,2026-02-06,20260206,2026-02,Friday,Nakuru,Phone Charger,In-store,3,1200,3600,Other
+DK0202,2026-02-06,20260206,2026-02,Friday,Kisumu,Smartphone,Online,1,22000,22000,Big-ticket
+DK0203,2026-02-06,20260206,2026-02,Friday,Nairobi,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0204,2026-02-06,20260206,2026-02,Friday,Kisumu,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0205,2026-02-07,20260207,2026-02,Saturday,Mombasa,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0206,2026-02-07,20260207,2026-02,Saturday,Kisumu,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0207,2026-02-07,20260207,2026-02,Saturday,Eldoret,Wireless Earbuds,In-store,3,6500,19500,Other
+DK0208,2026-02-07,20260207,2026-02,Saturday,Nairobi,Wireless Earbuds,Online,3,6500,19500,Other
+DK0209,2026-02-07,20260207,2026-02,Saturday,Kisumu,Wireless Earbuds,Online,1,6500,6500,Other
+DK0210,2026-02-07,20260207,2026-02,Saturday,Mombasa,Bluetooth Speaker,In-store,3,9500,28500,Other
+DK0211,2026-02-07,20260207,2026-02,Saturday,Mombasa,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0212,2026-02-08,20260208,2026-02,Sunday,Eldoret,Smart TV 55in,Online,1,48000,48000,Big-ticket
+DK0213,2026-02-08,20260208,2026-02,Sunday,Kisumu,Phone Charger,In-store,2,1200,2400,Other
+DK0214,2026-02-08,20260208,2026-02,Sunday,Nairobi,Phone Charger,In-store,2,1200,2400,Other
+DK0215,2026-02-09,20260209,2026-02,Monday,Mombasa,Tablet,In-store,1,18000,18000,Other
+DK0216,2026-02-09,20260209,2026-02,Monday,Eldoret,Phone Charger,In-store,2,1200,2400,Other
+DK0217,2026-02-09,20260209,2026-02,Monday,Kisumu,Phone Charger,In-store,1,1200,1200,Other
+DK0218,2026-02-09,20260209,2026-02,Monday,Kisumu,Laptop 15in,Online,2,62000,124000,Big-ticket
+DK0219,2026-02-09,20260209,2026-02,Monday,Nairobi,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0220,2026-02-10,20260210,2026-02,Tuesday,Mombasa,Tablet,In-store,1,18000,18000,Other
+DK0221,2026-02-10,20260210,2026-02,Tuesday,Nairobi,Microwave,In-store,2,15000,30000,Other
+DK0222,2026-02-10,20260210,2026-02,Tuesday,Nakuru,Phone Charger,Online,2,1200,2400,Other
+DK0223,2026-02-10,20260210,2026-02,Tuesday,Nakuru,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0224,2026-02-10,20260210,2026-02,Tuesday,Nakuru,Microwave,In-store,2,15000,30000,Other
+DK0225,2026-02-10,20260210,2026-02,Tuesday,Kisumu,Smart TV 55in,Online,1,48000,48000,Big-ticket
+DK0226,2026-02-11,20260211,2026-02,Wednesday,Mombasa,Phone Charger,In-store,5,1200,6000,Other
+DK0227,2026-02-11,20260211,2026-02,Wednesday,Nairobi,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0228,2026-02-11,20260211,2026-02,Wednesday,Kisumu,Tablet,In-store,1,18000,18000,Other
+DK0229,2026-02-11,20260211,2026-02,Wednesday,Nairobi,Wireless Earbuds,Online,3,6500,19500,Other
+DK0230,2026-02-11,20260211,2026-02,Wednesday,Eldoret,Phone Charger,In-store,6,1200,7200,Other
+DK0231,2026-02-11,20260211,2026-02,Wednesday,Nairobi,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0232,2026-02-11,20260211,2026-02,Wednesday,Nairobi,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0233,2026-02-12,20260212,2026-02,Thursday,Nairobi,Wireless Earbuds,In-store,2,6500,13000,Other
+DK0234,2026-02-12,20260212,2026-02,Thursday,Mombasa,Tablet,In-store,3,18000,54000,Other
+DK0235,2026-02-12,20260212,2026-02,Thursday,Nairobi,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0236,2026-02-12,20260212,2026-02,Thursday,Mombasa,Phone Charger,Online,3,1200,3600,Other
+DK0237,2026-02-12,20260212,2026-02,Thursday,Mombasa,Microwave,Online,3,15000,45000,Other
+DK0238,2026-02-13,20260213,2026-02,Friday,Kisumu,Bluetooth Speaker,Online,1,9500,9500,Other
+DK0239,2026-02-13,20260213,2026-02,Friday,Kisumu,Bluetooth Speaker,Online,1,9500,9500,Other
+DK0240,2026-02-13,20260213,2026-02,Friday,Kisumu,Wireless Earbuds,In-store,3,6500,19500,Other
+DK0241,2026-02-13,20260213,2026-02,Friday,Nairobi,Microwave,Online,2,15000,30000,Other
+DK0242,2026-02-13,20260213,2026-02,Friday,Eldoret,Phone Charger,In-store,1,1200,1200,Other
+DK0243,2026-02-13,20260213,2026-02,Friday,Nakuru,Wireless Earbuds,In-store,3,6500,19500,Other
+DK0244,2026-02-13,20260213,2026-02,Friday,Nakuru,Microwave,Online,1,15000,15000,Other
+DK0245,2026-02-13,20260213,2026-02,Friday,Eldoret,Phone Charger,Online,5,1200,6000,Other
+DK0246,2026-02-13,20260213,2026-02,Friday,Nairobi,Bluetooth Speaker,In-store,3,9500,28500,Other
+DK0247,2026-02-14,20260214,2026-02,Saturday,Nakuru,Phone Charger,Online,3,1200,3600,Other
+DK0248,2026-02-14,20260214,2026-02,Saturday,Kisumu,Smartphone,Online,2,22000,44000,Big-ticket
+DK0249,2026-02-14,20260214,2026-02,Saturday,Kisumu,Phone Charger,Online,1,1200,1200,Other
+DK0250,2026-02-15,20260215,2026-02,Sunday,Nakuru,Phone Charger,In-store,5,1200,6000,Other
+DK0251,2026-02-15,20260215,2026-02,Sunday,Eldoret,Phone Charger,In-store,4,1200,4800,Other
+DK0252,2026-02-15,20260215,2026-02,Sunday,Mombasa,Laptop 15in,In-store,2,62000,124000,Big-ticket
+DK0253,2026-02-15,20260215,2026-02,Sunday,Mombasa,Laptop 15in,In-store,3,62000,186000,Big-ticket
+DK0254,2026-02-15,20260215,2026-02,Sunday,Nairobi,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0255,2026-02-16,20260216,2026-02,Monday,Eldoret,Tablet,In-store,1,18000,18000,Other
+DK0256,2026-02-16,20260216,2026-02,Monday,Mombasa,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0257,2026-02-16,20260216,2026-02,Monday,Eldoret,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0258,2026-02-16,20260216,2026-02,Monday,Eldoret,Phone Charger,In-store,6,1200,7200,Other
+DK0259,2026-02-16,20260216,2026-02,Monday,Nakuru,Phone Charger,In-store,3,1200,3600,Other
+DK0260,2026-02-16,20260216,2026-02,Monday,Nakuru,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0261,2026-02-17,20260217,2026-02,Tuesday,Kisumu,Microwave,Online,2,15000,30000,Other
+DK0262,2026-02-17,20260217,2026-02,Tuesday,Kisumu,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0263,2026-02-18,20260218,2026-02,Wednesday,Nairobi,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0264,2026-02-18,20260218,2026-02,Wednesday,Nairobi,Phone Charger,Online,4,1200,4800,Other
+DK0265,2026-02-18,20260218,2026-02,Wednesday,Eldoret,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0266,2026-02-18,20260218,2026-02,Wednesday,Eldoret,Laptop 15in,In-store,3,62000,186000,Big-ticket
+DK0267,2026-02-19,20260219,2026-02,Thursday,Eldoret,Smart TV 55in,Online,1,48000,48000,Big-ticket
+DK0268,2026-02-19,20260219,2026-02,Thursday,Mombasa,Wireless Earbuds,In-store,3,6500,19500,Other
+DK0269,2026-02-19,20260219,2026-02,Thursday,Kisumu,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0270,2026-02-19,20260219,2026-02,Thursday,Nakuru,Smartphone,Online,2,22000,44000,Big-ticket
+DK0271,2026-02-20,20260220,2026-02,Friday,Mombasa,Phone Charger,Online,1,1200,1200,Other
+DK0272,2026-02-20,20260220,2026-02,Friday,Nairobi,Tablet,Online,2,18000,36000,Other
+DK0273,2026-02-20,20260220,2026-02,Friday,Nakuru,Wireless Earbuds,Online,3,6500,19500,Other
+DK0274,2026-02-20,20260220,2026-02,Friday,Kisumu,Tablet,In-store,2,18000,36000,Other
+DK0275,2026-02-20,20260220,2026-02,Friday,Nakuru,Tablet,In-store,1,18000,18000,Other
+DK0276,2026-02-20,20260220,2026-02,Friday,Nairobi,Microwave,Online,1,15000,15000,Other
+DK0277,2026-02-20,20260220,2026-02,Friday,Kisumu,Phone Charger,In-store,5,1200,6000,Other
+DK0278,2026-02-20,20260220,2026-02,Friday,Mombasa,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0279,2026-02-20,20260220,2026-02,Friday,Nairobi,Phone Charger,In-store,3,1200,3600,Other
+DK0280,2026-02-21,20260221,2026-02,Saturday,Nairobi,Microwave,Online,1,15000,15000,Other
+DK0281,2026-02-21,20260221,2026-02,Saturday,Nairobi,Smartphone,Online,1,22000,22000,Big-ticket
+DK0282,2026-02-21,20260221,2026-02,Saturday,Nairobi,Wireless Earbuds,Online,3,6500,19500,Other
+DK0283,2026-02-21,20260221,2026-02,Saturday,Mombasa,Wireless Earbuds,Online,4,6500,26000,Other
+DK0284,2026-02-21,20260221,2026-02,Saturday,Nakuru,Wireless Earbuds,Online,2,6500,13000,Other
+DK0285,2026-02-21,20260221,2026-02,Saturday,Mombasa,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0286,2026-02-22,20260222,2026-02,Sunday,Kisumu,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0287,2026-02-22,20260222,2026-02,Sunday,Kisumu,Microwave,Online,1,15000,15000,Other
+DK0288,2026-02-22,20260222,2026-02,Sunday,Nairobi,Microwave,In-store,1,15000,15000,Other
+DK0289,2026-02-22,20260222,2026-02,Sunday,Mombasa,Smart TV 55in,In-store,3,48000,144000,Big-ticket
+DK0290,2026-02-22,20260222,2026-02,Sunday,Nairobi,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0291,2026-02-23,20260223,2026-02,Monday,Nakuru,Phone Charger,Online,4,1200,4800,Other
+DK0292,2026-02-23,20260223,2026-02,Monday,Eldoret,Smartphone,In-store,3,22000,66000,Big-ticket
+DK0293,2026-02-23,20260223,2026-02,Monday,Nairobi,Laptop 15in,In-store,2,62000,124000,Big-ticket
+DK0294,2026-02-23,20260223,2026-02,Monday,Nairobi,Wireless Earbuds,Online,2,6500,13000,Other
+DK0295,2026-02-23,20260223,2026-02,Monday,Eldoret,Wireless Earbuds,Online,2,6500,13000,Other
+DK0296,2026-02-23,20260223,2026-02,Monday,Mombasa,Wireless Earbuds,In-store,3,6500,19500,Other
+DK0297,2026-02-23,20260223,2026-02,Monday,Mombasa,Tablet,Online,3,18000,54000,Other
+DK0298,2026-02-23,20260223,2026-02,Monday,Nairobi,Smartphone,Online,2,22000,44000,Big-ticket
+DK0299,2026-02-24,20260224,2026-02,Tuesday,Nairobi,Phone Charger,In-store,2,1200,2400,Other
+DK0300,2026-02-24,20260224,2026-02,Tuesday,Nakuru,Smartphone,In-store,3,22000,66000,Big-ticket
+DK0301,2026-02-24,20260224,2026-02,Tuesday,Nairobi,Smart TV 55in,In-store,2,48000,96000,Big-ticket
+DK0302,2026-02-24,20260224,2026-02,Tuesday,Eldoret,Microwave,In-store,1,15000,15000,Other
+DK0303,2026-02-24,20260224,2026-02,Tuesday,Mombasa,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0304,2026-02-25,20260225,2026-02,Wednesday,Nairobi,Phone Charger,Online,3,1200,3600,Other
+DK0305,2026-02-25,20260225,2026-02,Wednesday,Mombasa,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0306,2026-02-25,20260225,2026-02,Wednesday,Mombasa,Tablet,In-store,2,18000,36000,Other
+DK0307,2026-02-26,20260226,2026-02,Thursday,Nairobi,Bluetooth Speaker,In-store,4,9500,38000,Other
+DK0308,2026-02-26,20260226,2026-02,Thursday,Nairobi,Phone Charger,In-store,3,1200,3600,Other
+DK0309,2026-02-26,20260226,2026-02,Thursday,Kisumu,Phone Charger,Online,4,1200,4800,Other
+DK0310,2026-02-26,20260226,2026-02,Thursday,Mombasa,Phone Charger,Online,3,1200,3600,Other
+DK0311,2026-02-26,20260226,2026-02,Thursday,Nairobi,Tablet,In-store,1,18000,18000,Other
+DK0312,2026-02-26,20260226,2026-02,Thursday,Eldoret,Tablet,In-store,1,18000,18000,Other
+DK0313,2026-02-26,20260226,2026-02,Thursday,Nakuru,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0314,2026-02-26,20260226,2026-02,Thursday,Mombasa,Laptop 15in,Online,1,62000,62000,Big-ticket
+DK0315,2026-02-26,20260226,2026-02,Thursday,Nairobi,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0316,2026-02-26,20260226,2026-02,Thursday,Nairobi,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0317,2026-02-27,20260227,2026-02,Friday,Eldoret,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0318,2026-02-27,20260227,2026-02,Friday,Nairobi,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0319,2026-02-27,20260227,2026-02,Friday,Eldoret,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0320,2026-02-27,20260227,2026-02,Friday,Nakuru,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0321,2026-02-27,20260227,2026-02,Friday,Kisumu,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0322,2026-02-27,20260227,2026-02,Friday,Nairobi,Smartphone,In-store,3,22000,66000,Big-ticket
+DK0323,2026-02-27,20260227,2026-02,Friday,Eldoret,Microwave,In-store,2,15000,30000,Other
+DK0324,2026-02-27,20260227,2026-02,Friday,Nairobi,Microwave,In-store,2,15000,30000,Other
+DK0325,2026-02-27,20260227,2026-02,Friday,Mombasa,Phone Charger,In-store,4,1200,4800,Other
+DK0326,2026-02-28,20260228,2026-02,Saturday,Mombasa,Wireless Earbuds,In-store,4,6500,26000,Other
+DK0327,2026-02-28,20260228,2026-02,Saturday,Nairobi,Laptop 15in,In-store,2,62000,124000,Big-ticket
+DK0328,2026-02-28,20260228,2026-02,Saturday,Kisumu,Smartphone,Online,1,22000,22000,Big-ticket
+DK0329,2026-03-01,20260301,2026-03,Sunday,Kisumu,Smart TV 55in,Online,1,48000,48000,Big-ticket
+DK0330,2026-03-01,20260301,2026-03,Sunday,Kisumu,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0331,2026-03-01,20260301,2026-03,Sunday,Nairobi,Wireless Earbuds,Online,3,6500,19500,Other
+DK0332,2026-03-01,20260301,2026-03,Sunday,Nairobi,Tablet,Online,1,18000,18000,Other
+DK0333,2026-03-01,20260301,2026-03,Sunday,Eldoret,Tablet,In-store,3,18000,54000,Other
+DK0334,2026-03-01,20260301,2026-03,Sunday,Nairobi,Tablet,In-store,2,18000,36000,Other
+DK0335,2026-03-01,20260301,2026-03,Sunday,Mombasa,Phone Charger,In-store,4,1200,4800,Other
+DK0336,2026-03-01,20260301,2026-03,Sunday,Mombasa,Phone Charger,In-store,4,1200,4800,Other
+DK0337,2026-03-01,20260301,2026-03,Sunday,Mombasa,Smartphone,In-store,3,22000,66000,Big-ticket
+DK0338,2026-03-01,20260301,2026-03,Sunday,Nairobi,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0339,2026-03-02,20260302,2026-03,Monday,Eldoret,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0340,2026-03-02,20260302,2026-03,Monday,Kisumu,Phone Charger,In-store,3,1200,3600,Other
+DK0341,2026-03-02,20260302,2026-03,Monday,Kisumu,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0342,2026-03-02,20260302,2026-03,Monday,Nairobi,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0343,2026-03-02,20260302,2026-03,Monday,Nairobi,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0344,2026-03-02,20260302,2026-03,Monday,Mombasa,Tablet,In-store,2,18000,36000,Other
+DK0345,2026-03-02,20260302,2026-03,Monday,Nakuru,Phone Charger,In-store,6,1200,7200,Other
+DK0346,2026-03-02,20260302,2026-03,Monday,Mombasa,Laptop 15in,In-store,2,62000,124000,Big-ticket
+DK0347,2026-03-03,20260303,2026-03,Tuesday,Nairobi,Wireless Earbuds,In-store,5,6500,32500,Other
+DK0348,2026-03-03,20260303,2026-03,Tuesday,Eldoret,Microwave,In-store,1,15000,15000,Other
+DK0349,2026-03-03,20260303,2026-03,Tuesday,Nairobi,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0350,2026-03-03,20260303,2026-03,Tuesday,Nairobi,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0351,2026-03-03,20260303,2026-03,Tuesday,Kisumu,Smart TV 55in,Online,1,48000,48000,Big-ticket
+DK0352,2026-03-04,20260304,2026-03,Wednesday,Kisumu,Phone Charger,Online,1,1200,1200,Other
+DK0353,2026-03-04,20260304,2026-03,Wednesday,Eldoret,Smart TV 55in,Online,1,48000,48000,Big-ticket
+DK0354,2026-03-05,20260305,2026-03,Thursday,Eldoret,Wireless Earbuds,In-store,3,6500,19500,Other
+DK0355,2026-03-05,20260305,2026-03,Thursday,Nairobi,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0356,2026-03-05,20260305,2026-03,Thursday,Nakuru,Smartphone,In-store,5,22000,110000,Big-ticket
+DK0357,2026-03-05,20260305,2026-03,Thursday,Kisumu,Bluetooth Speaker,Online,3,9500,28500,Other
+DK0358,2026-03-05,20260305,2026-03,Thursday,Mombasa,Phone Charger,In-store,2,1200,2400,Other
+DK0359,2026-03-06,20260306,2026-03,Friday,Nairobi,Wireless Earbuds,In-store,3,6500,19500,Other
+DK0360,2026-03-06,20260306,2026-03,Friday,Nairobi,Smartphone,Online,2,22000,44000,Big-ticket
+DK0361,2026-03-06,20260306,2026-03,Friday,Nakuru,Smart TV 55in,Online,3,48000,144000,Big-ticket
+DK0362,2026-03-06,20260306,2026-03,Friday,Nakuru,Phone Charger,In-store,2,1200,2400,Other
+DK0363,2026-03-06,20260306,2026-03,Friday,Mombasa,Wireless Earbuds,In-store,4,6500,26000,Other
+DK0364,2026-03-06,20260306,2026-03,Friday,Nakuru,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0365,2026-03-06,20260306,2026-03,Friday,Eldoret,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0366,2026-03-06,20260306,2026-03,Friday,Nairobi,Microwave,In-store,1,15000,15000,Other
+DK0367,2026-03-06,20260306,2026-03,Friday,Nakuru,Laptop 15in,Online,1,62000,62000,Big-ticket
+DK0368,2026-03-07,20260307,2026-03,Saturday,Nakuru,Phone Charger,Online,2,1200,2400,Other
+DK0369,2026-03-07,20260307,2026-03,Saturday,Kisumu,Tablet,Online,1,18000,18000,Other
+DK0370,2026-03-07,20260307,2026-03,Saturday,Nakuru,Phone Charger,In-store,3,1200,3600,Other
+DK0371,2026-03-07,20260307,2026-03,Saturday,Nakuru,Tablet,In-store,4,18000,72000,Other
+DK0372,2026-03-07,20260307,2026-03,Saturday,Eldoret,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0373,2026-03-07,20260307,2026-03,Saturday,Nairobi,Bluetooth Speaker,Online,1,9500,9500,Other
+DK0374,2026-03-07,20260307,2026-03,Saturday,Nakuru,Wireless Earbuds,In-store,2,6500,13000,Other
+DK0375,2026-03-08,20260308,2026-03,Sunday,Kisumu,Smartphone,Online,1,22000,22000,Big-ticket
+DK0376,2026-03-08,20260308,2026-03,Sunday,Kisumu,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0377,2026-03-08,20260308,2026-03,Sunday,Nairobi,Smartphone,Online,2,22000,44000,Big-ticket
+DK0378,2026-03-08,20260308,2026-03,Sunday,Nairobi,Phone Charger,In-store,3,1200,3600,Other
+DK0379,2026-03-08,20260308,2026-03,Sunday,Nakuru,Bluetooth Speaker,In-store,3,9500,28500,Other
+DK0380,2026-03-08,20260308,2026-03,Sunday,Nakuru,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0381,2026-03-08,20260308,2026-03,Sunday,Nairobi,Phone Charger,In-store,6,1200,7200,Other
+DK0382,2026-03-08,20260308,2026-03,Sunday,Nairobi,Smart TV 55in,In-store,2,48000,96000,Big-ticket
+DK0383,2026-03-08,20260308,2026-03,Sunday,Mombasa,Tablet,Online,1,18000,18000,Other
+DK0384,2026-03-08,20260308,2026-03,Sunday,Nairobi,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0385,2026-03-09,20260309,2026-03,Monday,Nairobi,Tablet,In-store,1,18000,18000,Other
+DK0386,2026-03-09,20260309,2026-03,Monday,Mombasa,Phone Charger,Online,5,1200,6000,Other
+DK0387,2026-03-09,20260309,2026-03,Monday,Nairobi,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0388,2026-03-09,20260309,2026-03,Monday,Nakuru,Phone Charger,In-store,2,1200,2400,Other
+DK0389,2026-03-10,20260310,2026-03,Tuesday,Nakuru,Tablet,Online,1,18000,18000,Other
+DK0390,2026-03-10,20260310,2026-03,Tuesday,Nairobi,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0391,2026-03-10,20260310,2026-03,Tuesday,Nairobi,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0392,2026-03-10,20260310,2026-03,Tuesday,Eldoret,Wireless Earbuds,Online,6,6500,39000,Other
+DK0393,2026-03-10,20260310,2026-03,Tuesday,Eldoret,Smartphone,Online,2,22000,44000,Big-ticket
+DK0394,2026-03-11,20260311,2026-03,Wednesday,Kisumu,Phone Charger,In-store,5,1200,6000,Other
+DK0395,2026-03-12,20260312,2026-03,Thursday,Kisumu,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0396,2026-03-12,20260312,2026-03,Thursday,Mombasa,Bluetooth Speaker,Online,1,9500,9500,Other
+DK0397,2026-03-12,20260312,2026-03,Thursday,Nairobi,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0398,2026-03-12,20260312,2026-03,Thursday,Nakuru,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0399,2026-03-12,20260312,2026-03,Thursday,Mombasa,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0400,2026-03-13,20260313,2026-03,Friday,Nairobi,Wireless Earbuds,Online,2,6500,13000,Other
+DK0401,2026-03-13,20260313,2026-03,Friday,Nairobi,Smartphone,Online,1,22000,22000,Big-ticket
+DK0402,2026-03-13,20260313,2026-03,Friday,Eldoret,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0403,2026-03-13,20260313,2026-03,Friday,Nairobi,Laptop 15in,In-store,3,62000,186000,Big-ticket
+DK0404,2026-03-13,20260313,2026-03,Friday,Nairobi,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0405,2026-03-13,20260313,2026-03,Friday,Nairobi,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0406,2026-03-13,20260313,2026-03,Friday,Nairobi,Tablet,In-store,3,18000,54000,Other
+DK0407,2026-03-14,20260314,2026-03,Saturday,Kisumu,Wireless Earbuds,Online,3,6500,19500,Other
+DK0408,2026-03-14,20260314,2026-03,Saturday,Kisumu,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0409,2026-03-14,20260314,2026-03,Saturday,Mombasa,Laptop 15in,Online,1,62000,62000,Big-ticket
+DK0410,2026-03-14,20260314,2026-03,Saturday,Mombasa,Wireless Earbuds,Online,1,6500,6500,Other
+DK0411,2026-03-14,20260314,2026-03,Saturday,Eldoret,Phone Charger,In-store,3,1200,3600,Other
+DK0412,2026-03-14,20260314,2026-03,Saturday,Kisumu,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0413,2026-03-14,20260314,2026-03,Saturday,Mombasa,Wireless Earbuds,Online,2,6500,13000,Other
+DK0414,2026-03-14,20260314,2026-03,Saturday,Nakuru,Tablet,In-store,1,18000,18000,Other
+DK0415,2026-03-15,20260315,2026-03,Sunday,Nairobi,Microwave,In-store,2,15000,30000,Other
+DK0416,2026-03-15,20260315,2026-03,Sunday,Kisumu,Wireless Earbuds,Online,2,6500,13000,Other
+DK0417,2026-03-15,20260315,2026-03,Sunday,Nairobi,Microwave,In-store,1,15000,15000,Other
+DK0418,2026-03-15,20260315,2026-03,Sunday,Mombasa,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0419,2026-03-15,20260315,2026-03,Sunday,Nairobi,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0420,2026-03-16,20260316,2026-03,Monday,Nairobi,Wireless Earbuds,In-store,3,6500,19500,Other
+DK0421,2026-03-16,20260316,2026-03,Monday,Mombasa,Phone Charger,Online,2,1200,2400,Other
+DK0422,2026-03-16,20260316,2026-03,Monday,Mombasa,Smartphone,Online,1,22000,22000,Big-ticket
+DK0423,2026-03-16,20260316,2026-03,Monday,Kisumu,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0424,2026-03-16,20260316,2026-03,Monday,Nakuru,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0425,2026-03-16,20260316,2026-03,Monday,Nakuru,Tablet,In-store,2,18000,36000,Other
+DK0426,2026-03-16,20260316,2026-03,Monday,Nairobi,Wireless Earbuds,In-store,4,6500,26000,Other
+DK0427,2026-03-17,20260317,2026-03,Tuesday,Mombasa,Laptop 15in,In-store,2,62000,124000,Big-ticket
+DK0428,2026-03-17,20260317,2026-03,Tuesday,Mombasa,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0429,2026-03-17,20260317,2026-03,Tuesday,Nairobi,Smart TV 55in,In-store,2,48000,96000,Big-ticket
+DK0430,2026-03-17,20260317,2026-03,Tuesday,Mombasa,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0431,2026-03-17,20260317,2026-03,Tuesday,Kisumu,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0432,2026-03-17,20260317,2026-03,Tuesday,Nairobi,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0433,2026-03-18,20260318,2026-03,Wednesday,Kisumu,Smartphone,Online,3,22000,66000,Big-ticket
+DK0434,2026-03-18,20260318,2026-03,Wednesday,Nairobi,Bluetooth Speaker,Online,3,9500,28500,Other
+DK0435,2026-03-18,20260318,2026-03,Wednesday,Nairobi,Tablet,In-store,1,18000,18000,Other
+DK0436,2026-03-18,20260318,2026-03,Wednesday,Nakuru,Wireless Earbuds,Online,5,6500,32500,Other
+DK0437,2026-03-18,20260318,2026-03,Wednesday,Mombasa,Wireless Earbuds,In-store,2,6500,13000,Other
+DK0438,2026-03-18,20260318,2026-03,Wednesday,Nairobi,Phone Charger,In-store,3,1200,3600,Other
+DK0439,2026-03-19,20260319,2026-03,Thursday,Nairobi,Wireless Earbuds,Online,3,6500,19500,Other
+DK0440,2026-03-19,20260319,2026-03,Thursday,Nairobi,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0441,2026-03-19,20260319,2026-03,Thursday,Mombasa,Phone Charger,In-store,2,1200,2400,Other
+DK0442,2026-03-19,20260319,2026-03,Thursday,Nairobi,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0443,2026-03-19,20260319,2026-03,Thursday,Nairobi,Wireless Earbuds,Online,1,6500,6500,Other
+DK0444,2026-03-19,20260319,2026-03,Thursday,Eldoret,Laptop 15in,Online,1,62000,62000,Big-ticket
+DK0445,2026-03-20,20260320,2026-03,Friday,Kisumu,Laptop 15in,Online,1,62000,62000,Big-ticket
+DK0446,2026-03-20,20260320,2026-03,Friday,Nairobi,Smartphone,In-store,3,22000,66000,Big-ticket
+DK0447,2026-03-20,20260320,2026-03,Friday,Mombasa,Smart TV 55in,Online,1,48000,48000,Big-ticket
+DK0448,2026-03-20,20260320,2026-03,Friday,Eldoret,Phone Charger,In-store,3,1200,3600,Other
+DK0449,2026-03-20,20260320,2026-03,Friday,Nairobi,Wireless Earbuds,Online,2,6500,13000,Other
+DK0450,2026-03-20,20260320,2026-03,Friday,Nairobi,Smartphone,Online,1,22000,22000,Big-ticket
+DK0451,2026-03-21,20260321,2026-03,Saturday,Kisumu,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0452,2026-03-21,20260321,2026-03,Saturday,Kisumu,Smart TV 55in,In-store,2,48000,96000,Big-ticket
+DK0453,2026-03-21,20260321,2026-03,Saturday,Nakuru,Smartphone,Online,5,22000,110000,Big-ticket
+DK0454,2026-03-21,20260321,2026-03,Saturday,Mombasa,Smartphone,In-store,3,22000,66000,Big-ticket
+DK0455,2026-03-21,20260321,2026-03,Saturday,Kisumu,Bluetooth Speaker,In-store,4,9500,38000,Other
+DK0456,2026-03-21,20260321,2026-03,Saturday,Nairobi,Smart TV 55in,Online,1,48000,48000,Big-ticket
+DK0457,2026-03-22,20260322,2026-03,Sunday,Eldoret,Bluetooth Speaker,Online,1,9500,9500,Other
+DK0458,2026-03-22,20260322,2026-03,Sunday,Kisumu,Wireless Earbuds,In-store,3,6500,19500,Other
+DK0459,2026-03-22,20260322,2026-03,Sunday,Nairobi,Smartphone,Online,4,22000,88000,Big-ticket
+DK0460,2026-03-23,20260323,2026-03,Monday,Kisumu,Wireless Earbuds,Online,9,6500,58500,Other
+DK0461,2026-03-23,20260323,2026-03,Monday,Mombasa,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0462,2026-03-23,20260323,2026-03,Monday,Nakuru,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0463,2026-03-23,20260323,2026-03,Monday,Eldoret,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0464,2026-03-23,20260323,2026-03,Monday,Mombasa,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0465,2026-03-24,20260324,2026-03,Tuesday,Eldoret,Microwave,Online,1,15000,15000,Other
+DK0466,2026-03-24,20260324,2026-03,Tuesday,Nakuru,Tablet,Online,3,18000,54000,Other
+DK0467,2026-03-25,20260325,2026-03,Wednesday,Nakuru,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0468,2026-03-25,20260325,2026-03,Wednesday,Kisumu,Wireless Earbuds,Online,6,6500,39000,Other
+DK0469,2026-03-25,20260325,2026-03,Wednesday,Kisumu,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0470,2026-03-25,20260325,2026-03,Wednesday,Mombasa,Tablet,Online,5,18000,90000,Other
+DK0471,2026-03-25,20260325,2026-03,Wednesday,Mombasa,Smartphone,Online,1,22000,22000,Big-ticket
+DK0472,2026-03-25,20260325,2026-03,Wednesday,Mombasa,Tablet,Online,3,18000,54000,Other
+DK0473,2026-03-25,20260325,2026-03,Wednesday,Nairobi,Wireless Earbuds,In-store,2,6500,13000,Other
+DK0474,2026-03-26,20260326,2026-03,Thursday,Nairobi,Laptop 15in,Online,2,62000,124000,Big-ticket
+DK0475,2026-03-26,20260326,2026-03,Thursday,Mombasa,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0476,2026-03-26,20260326,2026-03,Thursday,Nairobi,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0477,2026-03-26,20260326,2026-03,Thursday,Mombasa,Laptop 15in,Online,1,62000,62000,Big-ticket
+DK0478,2026-03-26,20260326,2026-03,Thursday,Nairobi,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0479,2026-03-26,20260326,2026-03,Thursday,Nairobi,Tablet,Online,1,18000,18000,Other
+DK0480,2026-03-26,20260326,2026-03,Thursday,Mombasa,Smart TV 55in,Online,1,48000,48000,Big-ticket
+DK0481,2026-03-26,20260326,2026-03,Thursday,Kisumu,Tablet,Online,3,18000,54000,Other
+DK0482,2026-03-26,20260326,2026-03,Thursday,Kisumu,Smartphone,Online,2,22000,44000,Big-ticket
+DK0483,2026-03-27,20260327,2026-03,Friday,Nairobi,Smart TV 55in,Online,3,48000,144000,Big-ticket
+DK0484,2026-03-27,20260327,2026-03,Friday,Eldoret,Smartphone,Online,3,22000,66000,Big-ticket
+DK0485,2026-03-27,20260327,2026-03,Friday,Mombasa,Tablet,In-store,1,18000,18000,Other
+DK0486,2026-03-27,20260327,2026-03,Friday,Nakuru,Microwave,In-store,2,15000,30000,Other
+DK0487,2026-03-27,20260327,2026-03,Friday,Kisumu,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0488,2026-03-27,20260327,2026-03,Friday,Kisumu,Tablet,In-store,1,18000,18000,Other
+DK0489,2026-03-27,20260327,2026-03,Friday,Nairobi,Smart TV 55in,Online,1,48000,48000,Big-ticket
+DK0490,2026-03-27,20260327,2026-03,Friday,Nairobi,Wireless Earbuds,In-store,5,6500,32500,Other
+DK0491,2026-03-27,20260327,2026-03,Friday,Eldoret,Tablet,In-store,2,18000,36000,Other
+DK0492,2026-03-27,20260327,2026-03,Friday,Mombasa,Laptop 15in,Online,1,62000,62000,Big-ticket
+DK0493,2026-03-28,20260328,2026-03,Saturday,Kisumu,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0494,2026-03-28,20260328,2026-03,Saturday,Kisumu,Microwave,Online,2,15000,30000,Other
+DK0495,2026-03-28,20260328,2026-03,Saturday,Nairobi,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0496,2026-03-28,20260328,2026-03,Saturday,Kisumu,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0497,2026-03-29,20260329,2026-03,Sunday,Nairobi,Bluetooth Speaker,Online,1,9500,9500,Other
+DK0498,2026-03-29,20260329,2026-03,Sunday,Mombasa,Bluetooth Speaker,In-store,5,9500,47500,Other
+DK0499,2026-03-29,20260329,2026-03,Sunday,Nairobi,Smartphone,Online,1,22000,22000,Big-ticket
+DK0500,2026-03-29,20260329,2026-03,Sunday,Eldoret,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0501,2026-03-30,20260330,2026-03,Monday,Nakuru,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0502,2026-03-30,20260330,2026-03,Monday,Mombasa,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0503,2026-03-30,20260330,2026-03,Monday,Mombasa,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0504,2026-03-30,20260330,2026-03,Monday,Kisumu,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0505,2026-03-30,20260330,2026-03,Monday,Nairobi,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0506,2026-03-31,20260331,2026-03,Tuesday,Kisumu,Tablet,In-store,1,18000,18000,Other
+DK0507,2026-03-31,20260331,2026-03,Tuesday,Nairobi,Phone Charger,In-store,3,1200,3600,Other
+DK0508,2026-03-31,20260331,2026-03,Tuesday,Mombasa,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0509,2026-03-31,20260331,2026-03,Tuesday,Nakuru,Tablet,Online,2,18000,36000,Other
+DK0510,2026-03-31,20260331,2026-03,Tuesday,Kisumu,Phone Charger,In-store,5,1200,6000,Other
+DK0511,2026-03-31,20260331,2026-03,Tuesday,Nairobi,Tablet,In-store,1,18000,18000,Other
+DK0512,2026-03-31,20260331,2026-03,Tuesday,Nairobi,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0513,2026-03-31,20260331,2026-03,Tuesday,Kisumu,Tablet,In-store,2,18000,36000,Other
+DK0514,2026-03-31,20260331,2026-03,Tuesday,Mombasa,Wireless Earbuds,In-store,3,6500,19500,Other
+DK0515,2026-04-01,20260401,2026-04,Wednesday,Kisumu,Bluetooth Speaker,In-store,3,9500,28500,Other
+DK0516,2026-04-01,20260401,2026-04,Wednesday,Nairobi,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0517,2026-04-01,20260401,2026-04,Wednesday,Nairobi,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0518,2026-04-01,20260401,2026-04,Wednesday,Kisumu,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0519,2026-04-01,20260401,2026-04,Wednesday,Mombasa,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0520,2026-04-02,20260402,2026-04,Thursday,Eldoret,Microwave,In-store,1,15000,15000,Other
+DK0521,2026-04-02,20260402,2026-04,Thursday,Mombasa,Laptop 15in,Online,3,62000,186000,Big-ticket
+DK0522,2026-04-03,20260403,2026-04,Friday,Nairobi,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0523,2026-04-03,20260403,2026-04,Friday,Kisumu,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0524,2026-04-03,20260403,2026-04,Friday,Nairobi,Phone Charger,In-store,1,1200,1200,Other
+DK0525,2026-04-03,20260403,2026-04,Friday,Nairobi,Wireless Earbuds,Online,3,6500,19500,Other
+DK0526,2026-04-04,20260404,2026-04,Saturday,Eldoret,Wireless Earbuds,Online,2,6500,13000,Other
+DK0527,2026-04-04,20260404,2026-04,Saturday,Eldoret,Phone Charger,In-store,4,1200,4800,Other
+DK0528,2026-04-04,20260404,2026-04,Saturday,Nairobi,Tablet,In-store,1,18000,18000,Other
+DK0529,2026-04-04,20260404,2026-04,Saturday,Kisumu,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0530,2026-04-04,20260404,2026-04,Saturday,Nairobi,Laptop 15in,Online,1,62000,62000,Big-ticket
+DK0531,2026-04-04,20260404,2026-04,Saturday,Nakuru,Bluetooth Speaker,In-store,3,9500,28500,Other
+DK0532,2026-04-04,20260404,2026-04,Saturday,Kisumu,Tablet,Online,1,18000,18000,Other
+DK0533,2026-04-05,20260405,2026-04,Sunday,Eldoret,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0534,2026-04-05,20260405,2026-04,Sunday,Nakuru,Phone Charger,In-store,1,1200,1200,Other
+DK0535,2026-04-05,20260405,2026-04,Sunday,Nairobi,Microwave,In-store,1,15000,15000,Other
+DK0536,2026-04-05,20260405,2026-04,Sunday,Nairobi,Phone Charger,Online,5,1200,6000,Other
+DK0537,2026-04-06,20260406,2026-04,Monday,Mombasa,Phone Charger,In-store,2,1200,2400,Other
+DK0538,2026-04-06,20260406,2026-04,Monday,Nakuru,Tablet,Online,1,18000,18000,Other
+DK0539,2026-04-06,20260406,2026-04,Monday,Nakuru,Microwave,Online,3,15000,45000,Other
+DK0540,2026-04-06,20260406,2026-04,Monday,Eldoret,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0541,2026-04-06,20260406,2026-04,Monday,Nairobi,Microwave,Online,1,15000,15000,Other
+DK0542,2026-04-06,20260406,2026-04,Monday,Nairobi,Tablet,In-store,2,18000,36000,Other
+DK0543,2026-04-06,20260406,2026-04,Monday,Mombasa,Phone Charger,In-store,3,1200,3600,Other
+DK0544,2026-04-07,20260407,2026-04,Tuesday,Nairobi,Tablet,Online,1,18000,18000,Other
+DK0545,2026-04-07,20260407,2026-04,Tuesday,Nairobi,Laptop 15in,In-store,2,62000,124000,Big-ticket
+DK0546,2026-04-07,20260407,2026-04,Tuesday,Eldoret,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0547,2026-04-07,20260407,2026-04,Tuesday,Nairobi,Tablet,In-store,1,18000,18000,Other
+DK0548,2026-04-07,20260407,2026-04,Tuesday,Nakuru,Wireless Earbuds,Online,1,6500,6500,Other
+DK0549,2026-04-07,20260407,2026-04,Tuesday,Nairobi,Tablet,In-store,3,18000,54000,Other
+DK0550,2026-04-08,20260408,2026-04,Wednesday,Mombasa,Microwave,In-store,2,15000,30000,Other
+DK0551,2026-04-08,20260408,2026-04,Wednesday,Nakuru,Microwave,Online,1,15000,15000,Other
+DK0552,2026-04-09,20260409,2026-04,Thursday,Mombasa,Laptop 15in,Online,2,62000,124000,Big-ticket
+DK0553,2026-04-09,20260409,2026-04,Thursday,Nairobi,Bluetooth Speaker,Online,1,9500,9500,Other
+DK0554,2026-04-09,20260409,2026-04,Thursday,Nairobi,Microwave,In-store,1,15000,15000,Other
+DK0555,2026-04-09,20260409,2026-04,Thursday,Mombasa,Tablet,In-store,1,18000,18000,Other
+DK0556,2026-04-09,20260409,2026-04,Thursday,Mombasa,Microwave,Online,2,15000,30000,Other
+DK0557,2026-04-09,20260409,2026-04,Thursday,Eldoret,Smartphone,Online,1,22000,22000,Big-ticket
+DK0558,2026-04-10,20260410,2026-04,Friday,Nairobi,Microwave,In-store,1,15000,15000,Other
+DK0559,2026-04-10,20260410,2026-04,Friday,Eldoret,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0560,2026-04-10,20260410,2026-04,Friday,Nakuru,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0561,2026-04-10,20260410,2026-04,Friday,Mombasa,Smartphone,Online,1,22000,22000,Big-ticket
+DK0562,2026-04-10,20260410,2026-04,Friday,Eldoret,Smartphone,Online,1,22000,22000,Big-ticket
+DK0563,2026-04-10,20260410,2026-04,Friday,Nairobi,Phone Charger,Online,4,1200,4800,Other
+DK0564,2026-04-10,20260410,2026-04,Friday,Kisumu,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0565,2026-04-11,20260411,2026-04,Saturday,Nairobi,Smart TV 55in,In-store,3,48000,144000,Big-ticket
+DK0566,2026-04-11,20260411,2026-04,Saturday,Eldoret,Tablet,In-store,2,18000,36000,Other
+DK0567,2026-04-11,20260411,2026-04,Saturday,Kisumu,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0568,2026-04-11,20260411,2026-04,Saturday,Mombasa,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0569,2026-04-11,20260411,2026-04,Saturday,Eldoret,Wireless Earbuds,In-store,2,6500,13000,Other
+DK0570,2026-04-11,20260411,2026-04,Saturday,Nairobi,Smart TV 55in,Online,2,48000,96000,Big-ticket
+DK0571,2026-04-11,20260411,2026-04,Saturday,Eldoret,Bluetooth Speaker,In-store,5,9500,47500,Other
+DK0572,2026-04-11,20260411,2026-04,Saturday,Mombasa,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0573,2026-04-12,20260412,2026-04,Sunday,Nakuru,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0574,2026-04-12,20260412,2026-04,Sunday,Nakuru,Tablet,In-store,2,18000,36000,Other
+DK0575,2026-04-12,20260412,2026-04,Sunday,Kisumu,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0576,2026-04-12,20260412,2026-04,Sunday,Nairobi,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0577,2026-04-12,20260412,2026-04,Sunday,Kisumu,Bluetooth Speaker,Online,1,9500,9500,Other
+DK0578,2026-04-12,20260412,2026-04,Sunday,Eldoret,Phone Charger,In-store,1,1200,1200,Other
+DK0579,2026-04-12,20260412,2026-04,Sunday,Kisumu,Microwave,In-store,1,15000,15000,Other
+DK0580,2026-04-13,20260413,2026-04,Monday,Mombasa,Bluetooth Speaker,In-store,4,9500,38000,Other
+DK0581,2026-04-13,20260413,2026-04,Monday,Kisumu,Smart TV 55in,Online,2,48000,96000,Big-ticket
+DK0582,2026-04-13,20260413,2026-04,Monday,Mombasa,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0583,2026-04-13,20260413,2026-04,Monday,Eldoret,Phone Charger,In-store,4,1200,4800,Other
+DK0584,2026-04-14,20260414,2026-04,Tuesday,Kisumu,Phone Charger,Online,4,1200,4800,Other
+DK0585,2026-04-14,20260414,2026-04,Tuesday,Nairobi,Tablet,Online,1,18000,18000,Other
+DK0586,2026-04-14,20260414,2026-04,Tuesday,Nakuru,Microwave,In-store,1,15000,15000,Other
+DK0587,2026-04-14,20260414,2026-04,Tuesday,Nakuru,Phone Charger,Online,4,1200,4800,Other
+DK0588,2026-04-14,20260414,2026-04,Tuesday,Kisumu,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0589,2026-04-14,20260414,2026-04,Tuesday,Nairobi,Smartphone,Online,1,22000,22000,Big-ticket
+DK0590,2026-04-14,20260414,2026-04,Tuesday,Nairobi,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0591,2026-04-14,20260414,2026-04,Tuesday,Nairobi,Smartphone,Online,1,22000,22000,Big-ticket
+DK0592,2026-04-14,20260414,2026-04,Tuesday,Nairobi,Phone Charger,In-store,2,1200,2400,Other
+DK0593,2026-04-15,20260415,2026-04,Wednesday,Nairobi,Laptop 15in,Online,3,62000,186000,Big-ticket
+DK0594,2026-04-15,20260415,2026-04,Wednesday,Mombasa,Bluetooth Speaker,In-store,3,9500,28500,Other
+DK0595,2026-04-15,20260415,2026-04,Wednesday,Kisumu,Phone Charger,In-store,4,1200,4800,Other
+DK0596,2026-04-15,20260415,2026-04,Wednesday,Nairobi,Wireless Earbuds,In-store,2,6500,13000,Other
+DK0597,2026-04-15,20260415,2026-04,Wednesday,Mombasa,Smartphone,Online,4,22000,88000,Big-ticket
+DK0598,2026-04-15,20260415,2026-04,Wednesday,Mombasa,Microwave,In-store,1,15000,15000,Other
+DK0599,2026-04-16,20260416,2026-04,Thursday,Nakuru,Bluetooth Speaker,In-store,3,9500,28500,Other
+DK0600,2026-04-16,20260416,2026-04,Thursday,Eldoret,Smart TV 55in,Online,1,48000,48000,Big-ticket
+DK0601,2026-04-16,20260416,2026-04,Thursday,Nairobi,Smartphone,Online,3,22000,66000,Big-ticket
+DK0602,2026-04-16,20260416,2026-04,Thursday,Nakuru,Wireless Earbuds,In-store,4,6500,26000,Other
+DK0603,2026-04-16,20260416,2026-04,Thursday,Nakuru,Phone Charger,In-store,6,1200,7200,Other
+DK0604,2026-04-16,20260416,2026-04,Thursday,Kisumu,Smartphone,Online,1,22000,22000,Big-ticket
+DK0605,2026-04-17,20260417,2026-04,Friday,Nakuru,Microwave,In-store,2,15000,30000,Other
+DK0606,2026-04-17,20260417,2026-04,Friday,Mombasa,Tablet,In-store,4,18000,72000,Other
+DK0607,2026-04-17,20260417,2026-04,Friday,Mombasa,Smart TV 55in,Online,2,48000,96000,Big-ticket
+DK0608,2026-04-18,20260418,2026-04,Saturday,Mombasa,Tablet,In-store,1,18000,18000,Other
+DK0609,2026-04-18,20260418,2026-04,Saturday,Mombasa,Bluetooth Speaker,Online,2,9500,19000,Other
+DK0610,2026-04-18,20260418,2026-04,Saturday,Nairobi,Wireless Earbuds,In-store,4,6500,26000,Other
+DK0611,2026-04-18,20260418,2026-04,Saturday,Nairobi,Bluetooth Speaker,Online,1,9500,9500,Other
+DK0612,2026-04-18,20260418,2026-04,Saturday,Nakuru,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0613,2026-04-19,20260419,2026-04,Sunday,Eldoret,Wireless Earbuds,Online,2,6500,13000,Other
+DK0614,2026-04-19,20260419,2026-04,Sunday,Kisumu,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0615,2026-04-19,20260419,2026-04,Sunday,Mombasa,Phone Charger,In-store,3,1200,3600,Other
+DK0616,2026-04-19,20260419,2026-04,Sunday,Nakuru,Microwave,Online,1,15000,15000,Other
+DK0617,2026-04-19,20260419,2026-04,Sunday,Nairobi,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0618,2026-04-19,20260419,2026-04,Sunday,Nairobi,Phone Charger,In-store,3,1200,3600,Other
+DK0619,2026-04-19,20260419,2026-04,Sunday,Kisumu,Wireless Earbuds,In-store,4,6500,26000,Other
+DK0620,2026-04-19,20260419,2026-04,Sunday,Nairobi,Tablet,Online,1,18000,18000,Other
+DK0621,2026-04-20,20260420,2026-04,Monday,Nakuru,Bluetooth Speaker,Online,1,9500,9500,Other
+DK0622,2026-04-20,20260420,2026-04,Monday,Eldoret,Smartphone,Online,1,22000,22000,Big-ticket
+DK0623,2026-04-20,20260420,2026-04,Monday,Eldoret,Phone Charger,In-store,7,1200,8400,Other
+DK0624,2026-04-20,20260420,2026-04,Monday,Kisumu,Smartphone,Online,3,22000,66000,Big-ticket
+DK0625,2026-04-20,20260420,2026-04,Monday,Kisumu,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0626,2026-04-20,20260420,2026-04,Monday,Eldoret,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0627,2026-04-20,20260420,2026-04,Monday,Kisumu,Laptop 15in,Online,1,62000,62000,Big-ticket
+DK0628,2026-04-20,20260420,2026-04,Monday,Eldoret,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0629,2026-04-20,20260420,2026-04,Monday,Nairobi,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0630,2026-04-21,20260421,2026-04,Tuesday,Nairobi,Smartphone,In-store,4,22000,88000,Big-ticket
+DK0631,2026-04-21,20260421,2026-04,Tuesday,Kisumu,Microwave,Online,1,15000,15000,Other
+DK0632,2026-04-21,20260421,2026-04,Tuesday,Mombasa,Tablet,In-store,1,18000,18000,Other
+DK0633,2026-04-22,20260422,2026-04,Wednesday,Nairobi,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0634,2026-04-22,20260422,2026-04,Wednesday,Mombasa,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0635,2026-04-22,20260422,2026-04,Wednesday,Nakuru,Wireless Earbuds,Online,1,6500,6500,Other
+DK0636,2026-04-22,20260422,2026-04,Wednesday,Nakuru,Tablet,Online,1,18000,18000,Other
+DK0637,2026-04-23,20260423,2026-04,Thursday,Nairobi,Phone Charger,Online,6,1200,7200,Other
+DK0638,2026-04-23,20260423,2026-04,Thursday,Nairobi,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0639,2026-04-23,20260423,2026-04,Thursday,Nakuru,Smart TV 55in,Online,1,48000,48000,Big-ticket
+DK0640,2026-04-23,20260423,2026-04,Thursday,Mombasa,Phone Charger,Online,1,1200,1200,Other
+DK0641,2026-04-23,20260423,2026-04,Thursday,Eldoret,Phone Charger,In-store,2,1200,2400,Other
+DK0642,2026-04-23,20260423,2026-04,Thursday,Kisumu,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0643,2026-04-23,20260423,2026-04,Thursday,Nairobi,Phone Charger,In-store,2,1200,2400,Other
+DK0644,2026-04-24,20260424,2026-04,Friday,Kisumu,Microwave,In-store,2,15000,30000,Other
+DK0645,2026-04-24,20260424,2026-04,Friday,Nairobi,Phone Charger,Online,2,1200,2400,Other
+DK0646,2026-04-24,20260424,2026-04,Friday,Kisumu,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0647,2026-04-25,20260425,2026-04,Saturday,Mombasa,Microwave,In-store,1,15000,15000,Other
+DK0648,2026-04-26,20260426,2026-04,Sunday,Eldoret,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0649,2026-04-26,20260426,2026-04,Sunday,Nairobi,Phone Charger,In-store,3,1200,3600,Other
+DK0650,2026-04-26,20260426,2026-04,Sunday,Kisumu,Smart TV 55in,Online,1,48000,48000,Big-ticket
+DK0651,2026-04-26,20260426,2026-04,Sunday,Mombasa,Phone Charger,In-store,7,1200,8400,Other
+DK0652,2026-04-26,20260426,2026-04,Sunday,Eldoret,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0653,2026-04-26,20260426,2026-04,Sunday,Nairobi,Phone Charger,In-store,4,1200,4800,Other
+DK0654,2026-04-26,20260426,2026-04,Sunday,Kisumu,Wireless Earbuds,In-store,2,6500,13000,Other
+DK0655,2026-04-26,20260426,2026-04,Sunday,Nairobi,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0656,2026-04-27,20260427,2026-04,Monday,Eldoret,Tablet,Online,1,18000,18000,Other
+DK0657,2026-04-27,20260427,2026-04,Monday,Nairobi,Microwave,Online,4,15000,60000,Other
+DK0658,2026-04-27,20260427,2026-04,Monday,Nakuru,Tablet,In-store,2,18000,36000,Other
+DK0659,2026-04-27,20260427,2026-04,Monday,Kisumu,Smartphone,Online,2,22000,44000,Big-ticket
+DK0660,2026-04-27,20260427,2026-04,Monday,Mombasa,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0661,2026-04-27,20260427,2026-04,Monday,Nakuru,Phone Charger,Online,2,1200,2400,Other
+DK0662,2026-04-27,20260427,2026-04,Monday,Mombasa,Phone Charger,In-store,7,1200,8400,Other
+DK0663,2026-04-28,20260428,2026-04,Tuesday,Eldoret,Smart TV 55in,Online,2,48000,96000,Big-ticket
+DK0664,2026-04-28,20260428,2026-04,Tuesday,Nakuru,Phone Charger,Online,1,1200,1200,Other
+DK0665,2026-04-28,20260428,2026-04,Tuesday,Nakuru,Laptop 15in,Online,1,62000,62000,Big-ticket
+DK0666,2026-04-28,20260428,2026-04,Tuesday,Nairobi,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0667,2026-04-29,20260429,2026-04,Wednesday,Kisumu,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0668,2026-04-29,20260429,2026-04,Wednesday,Nairobi,Tablet,In-store,1,18000,18000,Other
+DK0669,2026-04-29,20260429,2026-04,Wednesday,Kisumu,Tablet,Online,1,18000,18000,Other
+DK0670,2026-04-29,20260429,2026-04,Wednesday,Nairobi,Wireless Earbuds,Online,2,6500,13000,Other
+DK0671,2026-04-29,20260429,2026-04,Wednesday,Mombasa,Smart TV 55in,Online,1,48000,48000,Big-ticket
+DK0672,2026-04-29,20260429,2026-04,Wednesday,Kisumu,Wireless Earbuds,In-store,4,6500,26000,Other
+DK0673,2026-04-29,20260429,2026-04,Wednesday,Mombasa,Laptop 15in,In-store,2,62000,124000,Big-ticket
+DK0674,2026-04-30,20260430,2026-04,Thursday,Eldoret,Phone Charger,In-store,2,1200,2400,Other
+DK0675,2026-04-30,20260430,2026-04,Thursday,Nakuru,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0676,2026-04-30,20260430,2026-04,Thursday,Eldoret,Laptop 15in,Online,2,62000,124000,Big-ticket
+DK0677,2026-04-30,20260430,2026-04,Thursday,Nairobi,Phone Charger,In-store,5,1200,6000,Other
+DK0678,2026-04-30,20260430,2026-04,Thursday,Mombasa,Wireless Earbuds,Online,2,6500,13000,Other
+DK0679,2026-04-30,20260430,2026-04,Thursday,Nakuru,Phone Charger,Online,3,1200,3600,Other
+DK0680,2026-04-30,20260430,2026-04,Thursday,Eldoret,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0681,2026-04-30,20260430,2026-04,Thursday,Kisumu,Tablet,In-store,1,18000,18000,Other
+DK0682,2026-05-01,20260501,2026-05,Friday,Mombasa,Bluetooth Speaker,Online,1,9500,9500,Other
+DK0683,2026-05-01,20260501,2026-05,Friday,Nairobi,Phone Charger,In-store,1,1200,1200,Other
+DK0684,2026-05-01,20260501,2026-05,Friday,Mombasa,Wireless Earbuds,Online,1,6500,6500,Other
+DK0685,2026-05-01,20260501,2026-05,Friday,Kisumu,Smart TV 55in,In-store,3,48000,144000,Big-ticket
+DK0686,2026-05-01,20260501,2026-05,Friday,Nairobi,Tablet,In-store,1,18000,18000,Other
+DK0687,2026-05-01,20260501,2026-05,Friday,Eldoret,Laptop 15in,Online,1,62000,62000,Big-ticket
+DK0688,2026-05-02,20260502,2026-05,Saturday,Nairobi,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0689,2026-05-02,20260502,2026-05,Saturday,Eldoret,Microwave,Online,2,15000,30000,Other
+DK0690,2026-05-02,20260502,2026-05,Saturday,Eldoret,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0691,2026-05-02,20260502,2026-05,Saturday,Nakuru,Bluetooth Speaker,Online,1,9500,9500,Other
+DK0692,2026-05-03,20260503,2026-05,Sunday,Kisumu,Phone Charger,In-store,3,1200,3600,Other
+DK0693,2026-05-03,20260503,2026-05,Sunday,Mombasa,Phone Charger,Online,2,1200,2400,Other
+DK0694,2026-05-03,20260503,2026-05,Sunday,Nairobi,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0695,2026-05-03,20260503,2026-05,Sunday,Eldoret,Smartphone,Online,1,22000,22000,Big-ticket
+DK0696,2026-05-04,20260504,2026-05,Monday,Nairobi,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0697,2026-05-04,20260504,2026-05,Monday,Nairobi,Smartphone,In-store,4,22000,88000,Big-ticket
+DK0698,2026-05-04,20260504,2026-05,Monday,Eldoret,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0699,2026-05-05,20260505,2026-05,Tuesday,Kisumu,Microwave,In-store,1,15000,15000,Other
+DK0700,2026-05-05,20260505,2026-05,Tuesday,Eldoret,Phone Charger,In-store,5,1200,6000,Other
+DK0701,2026-05-05,20260505,2026-05,Tuesday,Nairobi,Phone Charger,In-store,3,1200,3600,Other
+DK0702,2026-05-05,20260505,2026-05,Tuesday,Mombasa,Tablet,Online,1,18000,18000,Other
+DK0703,2026-05-05,20260505,2026-05,Tuesday,Eldoret,Smartphone,In-store,4,22000,88000,Big-ticket
+DK0704,2026-05-06,20260506,2026-05,Wednesday,Nairobi,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0705,2026-05-06,20260506,2026-05,Wednesday,Nakuru,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0706,2026-05-06,20260506,2026-05,Wednesday,Kisumu,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0707,2026-05-07,20260507,2026-05,Thursday,Nairobi,Bluetooth Speaker,Online,3,9500,28500,Other
+DK0708,2026-05-07,20260507,2026-05,Thursday,Kisumu,Phone Charger,In-store,3,1200,3600,Other
+DK0709,2026-05-07,20260507,2026-05,Thursday,Mombasa,Phone Charger,In-store,6,1200,7200,Other
+DK0710,2026-05-07,20260507,2026-05,Thursday,Kisumu,Bluetooth Speaker,In-store,3,9500,28500,Other
+DK0711,2026-05-07,20260507,2026-05,Thursday,Nairobi,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0712,2026-05-07,20260507,2026-05,Thursday,Kisumu,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0713,2026-05-07,20260507,2026-05,Thursday,Kisumu,Wireless Earbuds,Online,2,6500,13000,Other
+DK0714,2026-05-07,20260507,2026-05,Thursday,Eldoret,Smart TV 55in,Online,1,48000,48000,Big-ticket
+DK0715,2026-05-07,20260507,2026-05,Thursday,Nakuru,Smartphone,Online,1,22000,22000,Big-ticket
+DK0716,2026-05-08,20260508,2026-05,Friday,Eldoret,Phone Charger,Online,1,1200,1200,Other
+DK0717,2026-05-08,20260508,2026-05,Friday,Nairobi,Phone Charger,In-store,4,1200,4800,Other
+DK0718,2026-05-08,20260508,2026-05,Friday,Kisumu,Smartphone,In-store,4,22000,88000,Big-ticket
+DK0719,2026-05-08,20260508,2026-05,Friday,Mombasa,Phone Charger,Online,5,1200,6000,Other
+DK0720,2026-05-08,20260508,2026-05,Friday,Kisumu,Phone Charger,In-store,4,1200,4800,Other
+DK0721,2026-05-09,20260509,2026-05,Saturday,Kisumu,Laptop 15in,Online,3,62000,186000,Big-ticket
+DK0722,2026-05-09,20260509,2026-05,Saturday,Nairobi,Laptop 15in,In-store,2,62000,124000,Big-ticket
+DK0723,2026-05-09,20260509,2026-05,Saturday,Nairobi,Bluetooth Speaker,In-store,3,9500,28500,Other
+DK0724,2026-05-10,20260510,2026-05,Sunday,Mombasa,Laptop 15in,Online,1,62000,62000,Big-ticket
+DK0725,2026-05-10,20260510,2026-05,Sunday,Kisumu,Microwave,In-store,4,15000,60000,Other
+DK0726,2026-05-10,20260510,2026-05,Sunday,Eldoret,Phone Charger,In-store,4,1200,4800,Other
+DK0727,2026-05-11,20260511,2026-05,Monday,Mombasa,Phone Charger,Online,2,1200,2400,Other
+DK0728,2026-05-11,20260511,2026-05,Monday,Kisumu,Smart TV 55in,Online,2,48000,96000,Big-ticket
+DK0729,2026-05-11,20260511,2026-05,Monday,Mombasa,Smartphone,In-store,5,22000,110000,Big-ticket
+DK0730,2026-05-11,20260511,2026-05,Monday,Nairobi,Wireless Earbuds,Online,1,6500,6500,Other
+DK0731,2026-05-11,20260511,2026-05,Monday,Nairobi,Tablet,In-store,5,18000,90000,Other
+DK0732,2026-05-11,20260511,2026-05,Monday,Nakuru,Phone Charger,Online,2,1200,2400,Other
+DK0733,2026-05-12,20260512,2026-05,Tuesday,Nakuru,Phone Charger,In-store,7,1200,8400,Other
+DK0734,2026-05-12,20260512,2026-05,Tuesday,Eldoret,Phone Charger,In-store,3,1200,3600,Other
+DK0735,2026-05-12,20260512,2026-05,Tuesday,Kisumu,Smart TV 55in,Online,2,48000,96000,Big-ticket
+DK0736,2026-05-12,20260512,2026-05,Tuesday,Nairobi,Bluetooth Speaker,Online,2,9500,19000,Other
+DK0737,2026-05-12,20260512,2026-05,Tuesday,Kisumu,Microwave,Online,4,15000,60000,Other
+DK0738,2026-05-13,20260513,2026-05,Wednesday,Nairobi,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0739,2026-05-13,20260513,2026-05,Wednesday,Kisumu,Microwave,In-store,1,15000,15000,Other
+DK0740,2026-05-13,20260513,2026-05,Wednesday,Mombasa,Wireless Earbuds,In-store,3,6500,19500,Other
+DK0741,2026-05-13,20260513,2026-05,Wednesday,Mombasa,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0742,2026-05-13,20260513,2026-05,Wednesday,Mombasa,Smartphone,Online,2,22000,44000,Big-ticket
+DK0743,2026-05-14,20260514,2026-05,Thursday,Nairobi,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0744,2026-05-14,20260514,2026-05,Thursday,Nairobi,Bluetooth Speaker,In-store,4,9500,38000,Other
+DK0745,2026-05-14,20260514,2026-05,Thursday,Eldoret,Wireless Earbuds,In-store,5,6500,32500,Other
+DK0746,2026-05-14,20260514,2026-05,Thursday,Eldoret,Wireless Earbuds,In-store,4,6500,26000,Other
+DK0747,2026-05-14,20260514,2026-05,Thursday,Nairobi,Wireless Earbuds,In-store,5,6500,32500,Other
+DK0748,2026-05-14,20260514,2026-05,Thursday,Nairobi,Phone Charger,Online,4,1200,4800,Other
+DK0749,2026-05-15,20260515,2026-05,Friday,Nairobi,Wireless Earbuds,Online,1,6500,6500,Other
+DK0750,2026-05-15,20260515,2026-05,Friday,Nakuru,Bluetooth Speaker,Online,2,9500,19000,Other
+DK0751,2026-05-15,20260515,2026-05,Friday,Nakuru,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0752,2026-05-15,20260515,2026-05,Friday,Kisumu,Smart TV 55in,In-store,2,48000,96000,Big-ticket
+DK0753,2026-05-15,20260515,2026-05,Friday,Mombasa,Phone Charger,Online,6,1200,7200,Other
+DK0754,2026-05-15,20260515,2026-05,Friday,Eldoret,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0755,2026-05-15,20260515,2026-05,Friday,Mombasa,Bluetooth Speaker,Online,1,9500,9500,Other
+DK0756,2026-05-15,20260515,2026-05,Friday,Eldoret,Tablet,In-store,1,18000,18000,Other
+DK0757,2026-05-16,20260516,2026-05,Saturday,Nakuru,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0758,2026-05-16,20260516,2026-05,Saturday,Kisumu,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0759,2026-05-16,20260516,2026-05,Saturday,Mombasa,Phone Charger,In-store,2,1200,2400,Other
+DK0760,2026-05-17,20260517,2026-05,Sunday,Eldoret,Bluetooth Speaker,Online,2,9500,19000,Other
+DK0761,2026-05-17,20260517,2026-05,Sunday,Nakuru,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0762,2026-05-17,20260517,2026-05,Sunday,Nakuru,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0763,2026-05-17,20260517,2026-05,Sunday,Nairobi,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0764,2026-05-17,20260517,2026-05,Sunday,Eldoret,Wireless Earbuds,In-store,4,6500,26000,Other
+DK0765,2026-05-18,20260518,2026-05,Monday,Eldoret,Tablet,In-store,1,18000,18000,Other
+DK0766,2026-05-18,20260518,2026-05,Monday,Kisumu,Tablet,In-store,1,18000,18000,Other
+DK0767,2026-05-18,20260518,2026-05,Monday,Nairobi,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0768,2026-05-18,20260518,2026-05,Monday,Kisumu,Phone Charger,In-store,3,1200,3600,Other
+DK0769,2026-05-19,20260519,2026-05,Tuesday,Eldoret,Wireless Earbuds,Online,3,6500,19500,Other
+DK0770,2026-05-19,20260519,2026-05,Tuesday,Mombasa,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0771,2026-05-19,20260519,2026-05,Tuesday,Mombasa,Phone Charger,In-store,7,1200,8400,Other
+DK0772,2026-05-19,20260519,2026-05,Tuesday,Nairobi,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0773,2026-05-19,20260519,2026-05,Tuesday,Kisumu,Smart TV 55in,In-store,3,48000,144000,Big-ticket
+DK0774,2026-05-20,20260520,2026-05,Wednesday,Eldoret,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0775,2026-05-20,20260520,2026-05,Wednesday,Nairobi,Smart TV 55in,Online,1,48000,48000,Big-ticket
+DK0776,2026-05-20,20260520,2026-05,Wednesday,Mombasa,Wireless Earbuds,Online,1,6500,6500,Other
+DK0777,2026-05-20,20260520,2026-05,Wednesday,Kisumu,Wireless Earbuds,In-store,2,6500,13000,Other
+DK0778,2026-05-21,20260521,2026-05,Thursday,Kisumu,Phone Charger,In-store,3,1200,3600,Other
+DK0779,2026-05-21,20260521,2026-05,Thursday,Kisumu,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0780,2026-05-21,20260521,2026-05,Thursday,Nairobi,Bluetooth Speaker,In-store,3,9500,28500,Other
+DK0781,2026-05-21,20260521,2026-05,Thursday,Kisumu,Smartphone,Online,2,22000,44000,Big-ticket
+DK0782,2026-05-21,20260521,2026-05,Thursday,Nairobi,Tablet,In-store,1,18000,18000,Other
+DK0783,2026-05-21,20260521,2026-05,Thursday,Eldoret,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0784,2026-05-21,20260521,2026-05,Thursday,Nakuru,Wireless Earbuds,Online,2,6500,13000,Other
+DK0785,2026-05-21,20260521,2026-05,Thursday,Kisumu,Phone Charger,In-store,5,1200,6000,Other
+DK0786,2026-05-22,20260522,2026-05,Friday,Kisumu,Smartphone,Online,3,22000,66000,Big-ticket
+DK0787,2026-05-22,20260522,2026-05,Friday,Nairobi,Phone Charger,In-store,4,1200,4800,Other
+DK0788,2026-05-22,20260522,2026-05,Friday,Nairobi,Tablet,Online,1,18000,18000,Other
+DK0789,2026-05-22,20260522,2026-05,Friday,Mombasa,Bluetooth Speaker,Online,2,9500,19000,Other
+DK0790,2026-05-23,20260523,2026-05,Saturday,Kisumu,Phone Charger,In-store,2,1200,2400,Other
+DK0791,2026-05-23,20260523,2026-05,Saturday,Nakuru,Wireless Earbuds,Online,2,6500,13000,Other
+DK0792,2026-05-23,20260523,2026-05,Saturday,Nairobi,Wireless Earbuds,In-store,3,6500,19500,Other
+DK0793,2026-05-23,20260523,2026-05,Saturday,Eldoret,Tablet,In-store,2,18000,36000,Other
+DK0794,2026-05-23,20260523,2026-05,Saturday,Mombasa,Wireless Earbuds,In-store,2,6500,13000,Other
+DK0795,2026-05-23,20260523,2026-05,Saturday,Nairobi,Phone Charger,In-store,8,1200,9600,Other
+DK0796,2026-05-23,20260523,2026-05,Saturday,Mombasa,Wireless Earbuds,Online,1,6500,6500,Other
+DK0797,2026-05-23,20260523,2026-05,Saturday,Eldoret,Phone Charger,In-store,5,1200,6000,Other
+DK0798,2026-05-23,20260523,2026-05,Saturday,Kisumu,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0799,2026-05-23,20260523,2026-05,Saturday,Nairobi,Phone Charger,Online,5,1200,6000,Other
+DK0800,2026-05-24,20260524,2026-05,Sunday,Mombasa,Phone Charger,Online,1,1200,1200,Other
+DK0801,2026-05-24,20260524,2026-05,Sunday,Kisumu,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0802,2026-05-24,20260524,2026-05,Sunday,Nairobi,Bluetooth Speaker,Online,1,9500,9500,Other
+DK0803,2026-05-24,20260524,2026-05,Sunday,Mombasa,Laptop 15in,Online,1,62000,62000,Big-ticket
+DK0804,2026-05-25,20260525,2026-05,Monday,Mombasa,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0805,2026-05-25,20260525,2026-05,Monday,Mombasa,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0806,2026-05-25,20260525,2026-05,Monday,Nakuru,Tablet,Online,2,18000,36000,Other
+DK0807,2026-05-26,20260526,2026-05,Tuesday,Nairobi,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0808,2026-05-26,20260526,2026-05,Tuesday,Eldoret,Phone Charger,Online,4,1200,4800,Other
+DK0809,2026-05-26,20260526,2026-05,Tuesday,Nairobi,Smart TV 55in,In-store,3,48000,144000,Big-ticket
+DK0810,2026-05-26,20260526,2026-05,Tuesday,Nairobi,Bluetooth Speaker,In-store,3,9500,28500,Other
+DK0811,2026-05-27,20260527,2026-05,Wednesday,Nairobi,Wireless Earbuds,Online,1,6500,6500,Other
+DK0812,2026-05-27,20260527,2026-05,Wednesday,Mombasa,Laptop 15in,Online,1,62000,62000,Big-ticket
+DK0813,2026-05-27,20260527,2026-05,Wednesday,Kisumu,Phone Charger,Online,1,1200,1200,Other
+DK0814,2026-05-27,20260527,2026-05,Wednesday,Nakuru,Phone Charger,In-store,3,1200,3600,Other
+DK0815,2026-05-27,20260527,2026-05,Wednesday,Mombasa,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0816,2026-05-27,20260527,2026-05,Wednesday,Kisumu,Smartphone,Online,3,22000,66000,Big-ticket
+DK0817,2026-05-28,20260528,2026-05,Thursday,Mombasa,Phone Charger,Online,4,1200,4800,Other
+DK0818,2026-05-28,20260528,2026-05,Thursday,Eldoret,Phone Charger,Online,2,1200,2400,Other
+DK0819,2026-05-28,20260528,2026-05,Thursday,Nairobi,Tablet,In-store,1,18000,18000,Other
+DK0820,2026-05-28,20260528,2026-05,Thursday,Eldoret,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0821,2026-05-29,20260529,2026-05,Friday,Nairobi,Tablet,In-store,1,18000,18000,Other
+DK0822,2026-05-29,20260529,2026-05,Friday,Eldoret,Microwave,Online,2,15000,30000,Other
+DK0823,2026-05-29,20260529,2026-05,Friday,Eldoret,Laptop 15in,Online,2,62000,124000,Big-ticket
+DK0824,2026-05-30,20260530,2026-05,Saturday,Mombasa,Laptop 15in,In-store,2,62000,124000,Big-ticket
+DK0825,2026-05-30,20260530,2026-05,Saturday,Nairobi,Microwave,Online,1,15000,15000,Other
+DK0826,2026-05-30,20260530,2026-05,Saturday,Kisumu,Phone Charger,Online,9,1200,10800,Other
+DK0827,2026-05-30,20260530,2026-05,Saturday,Nairobi,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0828,2026-05-30,20260530,2026-05,Saturday,Nakuru,Phone Charger,In-store,5,1200,6000,Other
+DK0829,2026-05-30,20260530,2026-05,Saturday,Kisumu,Microwave,Online,2,15000,30000,Other
+DK0830,2026-05-30,20260530,2026-05,Saturday,Mombasa,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0831,2026-05-30,20260530,2026-05,Saturday,Mombasa,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0832,2026-05-31,20260531,2026-05,Sunday,Mombasa,Smart TV 55in,In-store,2,48000,96000,Big-ticket
+DK0833,2026-05-31,20260531,2026-05,Sunday,Nairobi,Phone Charger,In-store,4,1200,4800,Other
+DK0834,2026-05-31,20260531,2026-05,Sunday,Kisumu,Tablet,In-store,2,18000,36000,Other
+DK0835,2026-06-01,20260601,2026-06,Monday,Kisumu,Phone Charger,In-store,5,1200,6000,Other
+DK0836,2026-06-01,20260601,2026-06,Monday,Eldoret,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0837,2026-06-01,20260601,2026-06,Monday,Nakuru,Bluetooth Speaker,In-store,4,9500,38000,Other
+DK0838,2026-06-01,20260601,2026-06,Monday,Nakuru,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0839,2026-06-02,20260602,2026-06,Tuesday,Eldoret,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0840,2026-06-02,20260602,2026-06,Tuesday,Nairobi,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0841,2026-06-02,20260602,2026-06,Tuesday,Mombasa,Laptop 15in,Online,1,62000,62000,Big-ticket
+DK0842,2026-06-02,20260602,2026-06,Tuesday,Nairobi,Phone Charger,In-store,5,1200,6000,Other
+DK0843,2026-06-02,20260602,2026-06,Tuesday,Kisumu,Smartphone,Online,1,22000,22000,Big-ticket
+DK0844,2026-06-03,20260603,2026-06,Wednesday,Nakuru,Wireless Earbuds,Online,1,6500,6500,Other
+DK0845,2026-06-03,20260603,2026-06,Wednesday,Eldoret,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0846,2026-06-03,20260603,2026-06,Wednesday,Nakuru,Smartphone,Online,1,22000,22000,Big-ticket
+DK0847,2026-06-03,20260603,2026-06,Wednesday,Mombasa,Smartphone,Online,1,22000,22000,Big-ticket
+DK0848,2026-06-03,20260603,2026-06,Wednesday,Kisumu,Wireless Earbuds,Online,2,6500,13000,Other
+DK0849,2026-06-03,20260603,2026-06,Wednesday,Nairobi,Phone Charger,In-store,5,1200,6000,Other
+DK0850,2026-06-04,20260604,2026-06,Thursday,Kisumu,Smartphone,Online,4,22000,88000,Big-ticket
+DK0851,2026-06-04,20260604,2026-06,Thursday,Nakuru,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0852,2026-06-04,20260604,2026-06,Thursday,Kisumu,Smart TV 55in,In-store,2,48000,96000,Big-ticket
+DK0853,2026-06-04,20260604,2026-06,Thursday,Eldoret,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0854,2026-06-04,20260604,2026-06,Thursday,Nairobi,Tablet,In-store,2,18000,36000,Other
+DK0855,2026-06-05,20260605,2026-06,Friday,Nairobi,Wireless Earbuds,In-store,5,6500,32500,Other
+DK0856,2026-06-05,20260605,2026-06,Friday,Eldoret,Phone Charger,In-store,2,1200,2400,Other
+DK0857,2026-06-05,20260605,2026-06,Friday,Mombasa,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0858,2026-06-05,20260605,2026-06,Friday,Mombasa,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0859,2026-06-05,20260605,2026-06,Friday,Mombasa,Phone Charger,Online,8,1200,9600,Other
+DK0860,2026-06-05,20260605,2026-06,Friday,Mombasa,Phone Charger,Online,3,1200,3600,Other
+DK0861,2026-06-06,20260606,2026-06,Saturday,Nairobi,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0862,2026-06-06,20260606,2026-06,Saturday,Nairobi,Smartphone,Online,1,22000,22000,Big-ticket
+DK0863,2026-06-06,20260606,2026-06,Saturday,Mombasa,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0864,2026-06-06,20260606,2026-06,Saturday,Nairobi,Wireless Earbuds,Online,1,6500,6500,Other
+DK0865,2026-06-06,20260606,2026-06,Saturday,Mombasa,Wireless Earbuds,Online,1,6500,6500,Other
+DK0866,2026-06-06,20260606,2026-06,Saturday,Nairobi,Phone Charger,In-store,4,1200,4800,Other
+DK0867,2026-06-06,20260606,2026-06,Saturday,Nairobi,Phone Charger,In-store,6,1200,7200,Other
+DK0868,2026-06-06,20260606,2026-06,Saturday,Kisumu,Bluetooth Speaker,Online,2,9500,19000,Other
+DK0869,2026-06-07,20260607,2026-06,Sunday,Mombasa,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0870,2026-06-07,20260607,2026-06,Sunday,Kisumu,Smart TV 55in,In-store,2,48000,96000,Big-ticket
+DK0871,2026-06-07,20260607,2026-06,Sunday,Nakuru,Smartphone,Online,3,22000,66000,Big-ticket
+DK0872,2026-06-07,20260607,2026-06,Sunday,Nakuru,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0873,2026-06-08,20260608,2026-06,Monday,Nakuru,Phone Charger,In-store,5,1200,6000,Other
+DK0874,2026-06-08,20260608,2026-06,Monday,Mombasa,Laptop 15in,Online,1,62000,62000,Big-ticket
+DK0875,2026-06-08,20260608,2026-06,Monday,Mombasa,Wireless Earbuds,In-store,3,6500,19500,Other
+DK0876,2026-06-08,20260608,2026-06,Monday,Nairobi,Tablet,In-store,1,18000,18000,Other
+DK0877,2026-06-08,20260608,2026-06,Monday,Nakuru,Tablet,In-store,1,18000,18000,Other
+DK0878,2026-06-08,20260608,2026-06,Monday,Nairobi,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0879,2026-06-08,20260608,2026-06,Monday,Nakuru,Wireless Earbuds,In-store,3,6500,19500,Other
+DK0880,2026-06-09,20260609,2026-06,Tuesday,Nairobi,Phone Charger,In-store,1,1200,1200,Other
+DK0881,2026-06-09,20260609,2026-06,Tuesday,Nairobi,Laptop 15in,Online,1,62000,62000,Big-ticket
+DK0882,2026-06-09,20260609,2026-06,Tuesday,Nakuru,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0883,2026-06-09,20260609,2026-06,Tuesday,Nakuru,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0884,2026-06-09,20260609,2026-06,Tuesday,Nakuru,Tablet,In-store,1,18000,18000,Other
+DK0885,2026-06-09,20260609,2026-06,Tuesday,Nairobi,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0886,2026-06-09,20260609,2026-06,Tuesday,Nakuru,Phone Charger,In-store,3,1200,3600,Other
+DK0887,2026-06-09,20260609,2026-06,Tuesday,Nakuru,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0888,2026-06-10,20260610,2026-06,Wednesday,Nairobi,Tablet,Online,1,18000,18000,Other
+DK0889,2026-06-10,20260610,2026-06,Wednesday,Eldoret,Smart TV 55in,In-store,2,48000,96000,Big-ticket
+DK0890,2026-06-10,20260610,2026-06,Wednesday,Eldoret,Wireless Earbuds,Online,2,6500,13000,Other
+DK0891,2026-06-10,20260610,2026-06,Wednesday,Kisumu,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0892,2026-06-10,20260610,2026-06,Wednesday,Nairobi,Tablet,Online,1,18000,18000,Other
+DK0893,2026-06-10,20260610,2026-06,Wednesday,Kisumu,Smartphone,In-store,4,22000,88000,Big-ticket
+DK0894,2026-06-10,20260610,2026-06,Wednesday,Nairobi,Phone Charger,Online,5,1200,6000,Other
+DK0895,2026-06-10,20260610,2026-06,Wednesday,Nairobi,Wireless Earbuds,Online,1,6500,6500,Other
+DK0896,2026-06-10,20260610,2026-06,Wednesday,Eldoret,Phone Charger,Online,2,1200,2400,Other
+DK0897,2026-06-11,20260611,2026-06,Thursday,Kisumu,Phone Charger,In-store,5,1200,6000,Other
+DK0898,2026-06-11,20260611,2026-06,Thursday,Eldoret,Microwave,In-store,2,15000,30000,Other
+DK0899,2026-06-11,20260611,2026-06,Thursday,Kisumu,Microwave,In-store,3,15000,45000,Other
+DK0900,2026-06-11,20260611,2026-06,Thursday,Nairobi,Smartphone,Online,4,22000,88000,Big-ticket
+DK0901,2026-06-12,20260612,2026-06,Friday,Kisumu,Phone Charger,Online,1,1200,1200,Other
+DK0902,2026-06-12,20260612,2026-06,Friday,Mombasa,Smartphone,Online,1,22000,22000,Big-ticket
+DK0903,2026-06-12,20260612,2026-06,Friday,Nairobi,Smart TV 55in,Online,2,48000,96000,Big-ticket
+DK0904,2026-06-12,20260612,2026-06,Friday,Nakuru,Smart TV 55in,Online,1,48000,48000,Big-ticket
+DK0905,2026-06-12,20260612,2026-06,Friday,Nakuru,Smartphone,In-store,4,22000,88000,Big-ticket
+DK0906,2026-06-12,20260612,2026-06,Friday,Eldoret,Phone Charger,Online,5,1200,6000,Other
+DK0907,2026-06-13,20260613,2026-06,Saturday,Kisumu,Wireless Earbuds,Online,1,6500,6500,Other
+DK0908,2026-06-13,20260613,2026-06,Saturday,Mombasa,Phone Charger,In-store,5,1200,6000,Other
+DK0909,2026-06-13,20260613,2026-06,Saturday,Nairobi,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0910,2026-06-13,20260613,2026-06,Saturday,Nairobi,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0911,2026-06-13,20260613,2026-06,Saturday,Nairobi,Microwave,In-store,1,15000,15000,Other
+DK0912,2026-06-13,20260613,2026-06,Saturday,Nakuru,Tablet,Online,1,18000,18000,Other
+DK0913,2026-06-14,20260614,2026-06,Sunday,Mombasa,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0914,2026-06-14,20260614,2026-06,Sunday,Eldoret,Phone Charger,In-store,3,1200,3600,Other
+DK0915,2026-06-14,20260614,2026-06,Sunday,Kisumu,Bluetooth Speaker,In-store,3,9500,28500,Other
+DK0916,2026-06-14,20260614,2026-06,Sunday,Mombasa,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0917,2026-06-15,20260615,2026-06,Monday,Nairobi,Laptop 15in,Online,1,62000,62000,Big-ticket
+DK0918,2026-06-15,20260615,2026-06,Monday,Kisumu,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0919,2026-06-15,20260615,2026-06,Monday,Nakuru,Bluetooth Speaker,Online,1,9500,9500,Other
+DK0920,2026-06-15,20260615,2026-06,Monday,Nairobi,Wireless Earbuds,In-store,2,6500,13000,Other
+DK0921,2026-06-16,20260616,2026-06,Tuesday,Mombasa,Tablet,In-store,1,18000,18000,Other
+DK0922,2026-06-16,20260616,2026-06,Tuesday,Nakuru,Smartphone,Online,1,22000,22000,Big-ticket
+DK0923,2026-06-16,20260616,2026-06,Tuesday,Kisumu,Wireless Earbuds,In-store,2,6500,13000,Other
+DK0924,2026-06-16,20260616,2026-06,Tuesday,Kisumu,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0925,2026-06-16,20260616,2026-06,Tuesday,Mombasa,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0926,2026-06-16,20260616,2026-06,Tuesday,Nairobi,Smartphone,Online,1,22000,22000,Big-ticket
+DK0927,2026-06-16,20260616,2026-06,Tuesday,Mombasa,Tablet,In-store,1,18000,18000,Other
+DK0928,2026-06-16,20260616,2026-06,Tuesday,Kisumu,Microwave,Online,2,15000,30000,Other
+DK0929,2026-06-17,20260617,2026-06,Wednesday,Nairobi,Microwave,In-store,1,15000,15000,Other
+DK0930,2026-06-17,20260617,2026-06,Wednesday,Mombasa,Phone Charger,Online,1,1200,1200,Other
+DK0931,2026-06-17,20260617,2026-06,Wednesday,Nairobi,Smartphone,Online,1,22000,22000,Big-ticket
+DK0932,2026-06-17,20260617,2026-06,Wednesday,Mombasa,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0933,2026-06-17,20260617,2026-06,Wednesday,Nairobi,Tablet,Online,1,18000,18000,Other
+DK0934,2026-06-17,20260617,2026-06,Wednesday,Nairobi,Phone Charger,In-store,5,1200,6000,Other
+DK0935,2026-06-18,20260618,2026-06,Thursday,Eldoret,Wireless Earbuds,Online,1,6500,6500,Other
+DK0936,2026-06-18,20260618,2026-06,Thursday,Mombasa,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0937,2026-06-18,20260618,2026-06,Thursday,Mombasa,Tablet,In-store,2,18000,36000,Other
+DK0938,2026-06-18,20260618,2026-06,Thursday,Nairobi,Smart TV 55in,Online,1,48000,48000,Big-ticket
+DK0939,2026-06-18,20260618,2026-06,Thursday,Nakuru,Phone Charger,In-store,1,1200,1200,Other
+DK0940,2026-06-18,20260618,2026-06,Thursday,Kisumu,Bluetooth Speaker,Online,1,9500,9500,Other
+DK0941,2026-06-19,20260619,2026-06,Friday,Nairobi,Smart TV 55in,Online,1,48000,48000,Big-ticket
+DK0942,2026-06-19,20260619,2026-06,Friday,Eldoret,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0943,2026-06-19,20260619,2026-06,Friday,Nakuru,Phone Charger,In-store,3,1200,3600,Other
+DK0944,2026-06-19,20260619,2026-06,Friday,Mombasa,Laptop 15in,In-store,2,62000,124000,Big-ticket
+DK0945,2026-06-19,20260619,2026-06,Friday,Nairobi,Smartphone,In-store,3,22000,66000,Big-ticket
+DK0946,2026-06-19,20260619,2026-06,Friday,Kisumu,Wireless Earbuds,In-store,1,6500,6500,Other
+DK0947,2026-06-19,20260619,2026-06,Friday,Nakuru,Smart TV 55in,Online,2,48000,96000,Big-ticket
+DK0948,2026-06-19,20260619,2026-06,Friday,Nairobi,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0949,2026-06-20,20260620,2026-06,Saturday,Nairobi,Bluetooth Speaker,In-store,2,9500,19000,Other
+DK0950,2026-06-20,20260620,2026-06,Saturday,Nairobi,Smartphone,Online,1,22000,22000,Big-ticket
+DK0951,2026-06-20,20260620,2026-06,Saturday,Nairobi,Microwave,In-store,2,15000,30000,Other
+DK0952,2026-06-20,20260620,2026-06,Saturday,Nakuru,Microwave,Online,1,15000,15000,Other
+DK0953,2026-06-21,20260621,2026-06,Sunday,Nairobi,Smartphone,In-store,3,22000,66000,Big-ticket
+DK0954,2026-06-21,20260621,2026-06,Sunday,Nakuru,Tablet,In-store,1,18000,18000,Other
+DK0955,2026-06-21,20260621,2026-06,Sunday,Nairobi,Phone Charger,In-store,3,1200,3600,Other
+DK0956,2026-06-21,20260621,2026-06,Sunday,Kisumu,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0957,2026-06-21,20260621,2026-06,Sunday,Eldoret,Phone Charger,In-store,5,1200,6000,Other
+DK0958,2026-06-21,20260621,2026-06,Sunday,Eldoret,Phone Charger,In-store,4,1200,4800,Other
+DK0959,2026-06-23,20260623,2026-06,Tuesday,Nakuru,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0960,2026-06-23,20260623,2026-06,Tuesday,Mombasa,Smart TV 55in,Online,1,48000,48000,Big-ticket
+DK0961,2026-06-23,20260623,2026-06,Tuesday,Mombasa,Wireless Earbuds,Online,2,6500,13000,Other
+DK0962,2026-06-23,20260623,2026-06,Tuesday,Nairobi,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0963,2026-06-23,20260623,2026-06,Tuesday,Mombasa,Phone Charger,In-store,4,1200,4800,Other
+DK0964,2026-06-23,20260623,2026-06,Tuesday,Mombasa,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0965,2026-06-23,20260623,2026-06,Tuesday,Eldoret,Phone Charger,Online,4,1200,4800,Other
+DK0966,2026-06-23,20260623,2026-06,Tuesday,Mombasa,Laptop 15in,In-store,3,62000,186000,Big-ticket
+DK0967,2026-06-23,20260623,2026-06,Tuesday,Mombasa,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0968,2026-06-23,20260623,2026-06,Tuesday,Mombasa,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0969,2026-06-24,20260624,2026-06,Wednesday,Mombasa,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0970,2026-06-24,20260624,2026-06,Wednesday,Nakuru,Wireless Earbuds,Online,3,6500,19500,Other
+DK0971,2026-06-24,20260624,2026-06,Wednesday,Eldoret,Smart TV 55in,Online,1,48000,48000,Big-ticket
+DK0972,2026-06-24,20260624,2026-06,Wednesday,Nairobi,Tablet,In-store,2,18000,36000,Other
+DK0973,2026-06-24,20260624,2026-06,Wednesday,Nairobi,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0974,2026-06-24,20260624,2026-06,Wednesday,Nairobi,Microwave,Online,3,15000,45000,Other
+DK0975,2026-06-24,20260624,2026-06,Wednesday,Nakuru,Phone Charger,In-store,2,1200,2400,Other
+DK0976,2026-06-25,20260625,2026-06,Thursday,Eldoret,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0977,2026-06-26,20260626,2026-06,Friday,Nairobi,Wireless Earbuds,Online,5,6500,32500,Other
+DK0978,2026-06-26,20260626,2026-06,Friday,Eldoret,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0979,2026-06-26,20260626,2026-06,Friday,Kisumu,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0980,2026-06-26,20260626,2026-06,Friday,Nairobi,Smartphone,In-store,1,22000,22000,Big-ticket
+DK0981,2026-06-27,20260627,2026-06,Saturday,Nairobi,Microwave,In-store,1,15000,15000,Other
+DK0982,2026-06-27,20260627,2026-06,Saturday,Nairobi,Laptop 15in,In-store,1,62000,62000,Big-ticket
+DK0983,2026-06-27,20260627,2026-06,Saturday,Nakuru,Bluetooth Speaker,In-store,1,9500,9500,Other
+DK0984,2026-06-27,20260627,2026-06,Saturday,Mombasa,Bluetooth Speaker,Online,2,9500,19000,Other
+DK0985,2026-06-28,20260628,2026-06,Sunday,Kisumu,Smart TV 55in,Online,1,48000,48000,Big-ticket
+DK0986,2026-06-28,20260628,2026-06,Sunday,Nairobi,Bluetooth Speaker,In-store,3,9500,28500,Other
+DK0987,2026-06-28,20260628,2026-06,Sunday,Nakuru,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0988,2026-06-28,20260628,2026-06,Sunday,Nairobi,Microwave,In-store,1,15000,15000,Other
+DK0989,2026-06-28,20260628,2026-06,Sunday,Nakuru,Phone Charger,In-store,2,1200,2400,Other
+DK0990,2026-06-29,20260629,2026-06,Monday,Nairobi,Phone Charger,In-store,5,1200,6000,Other
+DK0991,2026-06-29,20260629,2026-06,Monday,Nairobi,Smart TV 55in,In-store,1,48000,48000,Big-ticket
+DK0992,2026-06-29,20260629,2026-06,Monday,Nairobi,Laptop 15in,Online,1,62000,62000,Big-ticket
+DK0993,2026-06-29,20260629,2026-06,Monday,Kisumu,Wireless Earbuds,Online,1,6500,6500,Other
+DK0994,2026-06-29,20260629,2026-06,Monday,Nakuru,Smartphone,In-store,2,22000,44000,Big-ticket
+DK0995,2026-06-29,20260629,2026-06,Monday,Eldoret,Smartphone,In-store,3,22000,66000,Big-ticket
+DK0996,2026-06-29,20260629,2026-06,Monday,Kisumu,Phone Charger,Online,1,1200,1200,Other
+DK0997,2026-06-29,20260629,2026-06,Monday,Kisumu,Smartphone,Online,1,22000,22000,Big-ticket
+DK0998,2026-06-29,20260629,2026-06,Monday,Nakuru,Phone Charger,In-store,5,1200,6000,Other
+DK0999,2026-06-30,20260630,2026-06,Tuesday,Kisumu,Wireless Earbuds,In-store,1,6500,6500,Other
+DK1000,2026-06-30,20260630,2026-06,Tuesday,Mombasa,Microwave,In-store,1,15000,15000,Other
